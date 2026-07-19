@@ -1,0 +1,1172 @@
+[
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Fitting and Turning)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design (Fitting and Turning) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Fitting and Turning)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design (Fitting and Turning) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Fitting and Turning)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Boilermaking)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design (Boilermaking) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Boilermaking)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design (Boilermaking) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Boilermaking)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Motor Mechanics)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design (Motor Mechanics) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Motor Mechanics)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design (Motor Mechanics) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Motor Mechanics)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Welding)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design (Welding) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Welding)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design (Welding) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Welding)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Light Current)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction (Light Current) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Light Current)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Electrical Infrastructure Construction (Light Current) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Light Current)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Heavy Current)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction (Heavy Current) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Heavy Current)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Electrical Infrastructure Construction (Heavy Current) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Heavy Current)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Carpentry and Roof Work)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction (Carpentry and Roof Work) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Carpentry and Roof Work)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Civil Engineering and Building Construction (Carpentry and Roof Work) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Carpentry and Roof Work)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Masonry)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction (Masonry) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Masonry)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Civil Engineering and Building Construction (Masonry) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Masonry)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Plumbing)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction (Plumbing) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Plumbing)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Civil Engineering and Building Construction (Plumbing) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Plumbing)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Primary Agriculture Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Primary Agriculture Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Office Administration Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Office Administration Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Hospitality Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Hospitality Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Tourism Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Tourism Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  }
+]
