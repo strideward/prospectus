@@ -1,0 +1,3881 @@
+[
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in accounting sciences",
+    "code": "98201",
+    "aps": 14,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in animal welfare",
+    "code": "90098",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in archives and records management",
+    "code": "98577",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in banking",
+    "code": "98225",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in criminal justice",
+    "code": "90006",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in economic and management sciences",
+    "code": "98237",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in education foundation phase and intermediate phase",
+    "code": "90093 - fip",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in education senior phase maths and science education",
+    "code": "90093 - sms",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in education senior phase and further education and training teaching",
+    "code": "90093 - spf",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in law",
+    "code": "98751",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in life and environmental sciences",
+    "code": "98366",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in marketing",
+    "code": "98229",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in mathematics and statistics",
+    "code": "90129",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in physical sciences",
+    "code": "90101",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in retailing",
+    "code": "90014",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in social auxiliary work",
+    "code": "90011",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in supervisory management",
+    "code": "90015",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Higher Certificate",
+    "name": "higher certificate in tourism management",
+    "code": "98226",
+    "aps": 15,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in accounting sciences",
+    "code": "98200",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in administrative management",
+    "code": "98216",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in agricultural management",
+    "code": "90097",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in animal health",
+    "code": "98026 - ahe",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in chemical engineering",
+    "code": "90130",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in civil engineering",
+    "code": "90137",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in corrections management",
+    "code": "98218",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in early childhood care and education",
+    "code": "90187",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in electrical engineering",
+    "code": "90138",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in explosives management",
+    "code": "98222",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in grade r teaching",
+    "code": "90173",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in human resource management",
+    "code": "98211",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in industrial engineering",
+    "code": "90136",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in information technology",
+    "code": "98806 - ite",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in law",
+    "code": "98750",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in local government finance",
+    "code": "90083",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in marketing management",
+    "code": "98202",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in mechanical engineering",
+    "code": "90132",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in mining engineering",
+    "code": "90140",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in nature conservation",
+    "code": "98024 - nco",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in operations management",
+    "code": "90183",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in ornamental horticulture",
+    "code": "98025 - hor",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in policing",
+    "code": "98220",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in public administration and management",
+    "code": "98203",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in public relations",
+    "code": "90077",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in pulp and paper technology",
+    "code": "90141",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in safety management",
+    "code": "90107",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in security management",
+    "code": "98221",
+    "aps": 18,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in small business management",
+    "code": "90073",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Diploma",
+    "name": "diploma in tourism management",
+    "code": "98223",
+    "aps": 17,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of accounting sciences in financial accounting (revised curriculum 2020)",
+    "code": "98302 - fa1",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of accounting sciences in internal auditing internal auditing",
+    "code": "98303 - aUi",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of accounting sciences in management accounting (revised curriculum 2020)",
+    "code": "98304 - ma1",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of accounting sciences in taxation",
+    "code": "98318 - taX",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of administration",
+    "code": "98315 - baD",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of administration in human settlements management",
+    "code": "90016 - hsm",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and african politics",
+    "code": "99311 - apo",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and archives and records management",
+    "code": "99311 - alm",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and art history",
+    "code": "99311 - ala",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and communication science",
+    "code": "99311 - als",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and criminology",
+    "code": "99311 - alc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and Development studies",
+    "code": "99311 - alD",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and economics",
+    "code": "99311 - ale",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and geography",
+    "code": "99311 - alg",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and history",
+    "code": "99311 - alh",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and industrial and organisational psychology",
+    "code": "99311 - alo",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and information science",
+    "code": "99311 - ain",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and linguistics",
+    "code": "99311 - all",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and psychology",
+    "code": "99311 - alp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african languages and public administration",
+    "code": "99311 - apa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african politics and economics",
+    "code": "99311 - ape",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african politics and politics",
+    "code": "99311 - app",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts african politics and private law",
+    "code": "99311 - apl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts afrikaans and arabic",
+    "code": "99311 - afa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts afrikaans and economics",
+    "code": "99311 - aec",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts afrikaans and geography",
+    "code": "99311 - age",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts afrikaans and history",
+    "code": "99311 - ahi",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts afrikaans and private law",
+    "code": "99311 - afl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts ancient history and archaeology",
+    "code": "99311 - har",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts anthropology and communication science",
+    "code": "99311 - anc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts anthropology and communication studies",
+    "code": "99311 - ans",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts anthropology and economics",
+    "code": "99311 - ane",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts anthropology and geography",
+    "code": "99311 - ang",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts anthropology and history",
+    "code": "99311 - anh",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts anthropology and linguistics",
+    "code": "99311 - anl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts anthropology and psychology",
+    "code": "99311 - anp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts anthropology and theology",
+    "code": "99311 - ant",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts arabic and english studies",
+    "code": "99311 - aes",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts arabic and linguistics",
+    "code": "99311 - arl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts arabic and mandarin chinese",
+    "code": "99311 - amc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts arabic and theology",
+    "code": "99311 - ath",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and african languages",
+    "code": "99311 - aal",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and african politics",
+    "code": "99311 - aap",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and anthropology",
+    "code": "99311 - aan",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and archives and records management",
+    "code": "99311 - aar",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and art history",
+    "code": "99311 - aah",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and communication science",
+    "code": "99311 - acs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and communication studies",
+    "code": "99311 - ars",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and criminology",
+    "code": "99311 - acr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and Development studies",
+    "code": "99311 - aDs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and economics",
+    "code": "99311 - are",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and french",
+    "code": "99311 - afr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and geography",
+    "code": "99311 - arg",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and history",
+    "code": "99311 - arh",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and industrial and organisational psychology",
+    "code": "99311 - aio",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and information science",
+    "code": "99311 - ais",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and linguistics",
+    "code": "99311 - ali",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and mandarin chinese",
+    "code": "99311 - ach",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and philosophy",
+    "code": "99311 - aph",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and politics",
+    "code": "99311 - arp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and psychology",
+    "code": "99311 - aps",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and scripture",
+    "code": "99311 - asc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archaeology and sociology",
+    "code": "99311 - aso",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archives and records management and ancient history",
+    "code": "99311 - ara",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archives and records management and art history",
+    "code": "99311 - ama",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archives and records management and communication science",
+    "code": "99311 - ams",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archives and records management and criminology",
+    "code": "99311 - arc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archives and records management and economics",
+    "code": "99311 - ame",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archives and records management and geography",
+    "code": "99311 - amg",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archives and records management and history",
+    "code": "99311 - amh",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archives and records management and industrial and organisational psychology",
+    "code": "99311 - aip",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archives and records management and information science",
+    "code": "99311 - ami",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts archives and records management and public administration",
+    "code": "99311 - amp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts art history and ancient history",
+    "code": "99311 - ana",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts art history and economics",
+    "code": "99311 - ahe",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts art history and music in history and society",
+    "code": "99311 - ahs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and criminology",
+    "code": "99311 - csc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and economics",
+    "code": "99311 - cse",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and geography",
+    "code": "99311 - csg",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and industrial and organisational psychology",
+    "code": "99311 - cio",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and international politics",
+    "code": "99311 - cip",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and mandarin chinese",
+    "code": "99311 - cmc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and ministry",
+    "code": "99311 - csm",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and music in history and society",
+    "code": "99311 - cmh",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and public administration",
+    "code": "99311 - cpa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and theology",
+    "code": "99311 - cst",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication science and theory of literature",
+    "code": "99311 - ctl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and african languages",
+    "code": "99311 - cal",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and archives and records management",
+    "code": "99311 - csr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and criminology",
+    "code": "99311 - ccr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and Development studies",
+    "code": "99311 - csD",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and industrial and organisational psychology",
+    "code": "99311 - csp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and international politics",
+    "code": "99311 - csi",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and music in history and society",
+    "code": "99311 - cms",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and psychology",
+    "code": "99311 - cps",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and public administration",
+    "code": "99311 - csa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and theology",
+    "code": "99311 - cth",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts communication studies and theory of literature",
+    "code": "99311 - csl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts criminology and anthropology",
+    "code": "99311 - cra",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and archives and records management",
+    "code": "99311 - Dar",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and communication science",
+    "code": "99311 - Dcs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and criminology",
+    "code": "99311 - Dcr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and english studies",
+    "code": "99311 - Des",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and geography",
+    "code": "99311 - Dsg",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and history",
+    "code": "99311 - Dsh",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and industrial and organisational psychology",
+    "code": "99311 - Dio",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and international politics",
+    "code": "99311 - Dip",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and ministry",
+    "code": "99311 - Dsm",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and philosophy",
+    "code": "99311 - Dph",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and private law",
+    "code": "99311 - Dpl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and psychology",
+    "code": "99311 - Dsp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and public administration",
+    "code": "99311 - Dpa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and scripture",
+    "code": "99311 - Dsc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and sociology",
+    "code": "99311 - Dss",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts Development studies and theology",
+    "code": "99311 - Dst",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts economics and communication studies",
+    "code": "99311 - eco",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and african languages",
+    "code": "99311 - eal",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and afrikaans",
+    "code": "99311 - esa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and ancient history",
+    "code": "99311 - ena",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and archives and records management",
+    "code": "99311 - ear",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and art history",
+    "code": "99311 - eah",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and communication science",
+    "code": "99311 - ecs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and communication studies",
+    "code": "99311 - esc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and criminology",
+    "code": "99311 - ecr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and economics",
+    "code": "99311 - ese",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and french",
+    "code": "99311 - esf",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and geography",
+    "code": "99311 - esg",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and history",
+    "code": "99311 - esh",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and industrial and organisational psychology",
+    "code": "99311 - eio",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and information science",
+    "code": "99311 - eis",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and international politics",
+    "code": "99311 - eip",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and linguistics",
+    "code": "99311 - esl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and mandarin chinese",
+    "code": "99311 - emc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and philosophy",
+    "code": "99311 - eph",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and politics",
+    "code": "99311 - esp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and private law",
+    "code": "99311 - epl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and psychology",
+    "code": "99311 - eps",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and public administration",
+    "code": "99311 - epa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and scripture",
+    "code": "99311 - ess",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and sociology",
+    "code": "99311 - eso",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts english studies and theory of literature",
+    "code": "99311 - etl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts french and anthropology",
+    "code": "99311 - fra",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts french and mandarin chinese",
+    "code": "99311 - fmc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts general",
+    "code": "99311 - gen",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts geography and communication studies",
+    "code": "99311 - gcs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts history and art history",
+    "code": "99311 - hah",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts history and communication science",
+    "code": "99311 - hcs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts history and communication studies",
+    "code": "99311 - hco",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts history and criminology",
+    "code": "99311 - hcr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts history and economics",
+    "code": "99311 - hec",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts history and geography",
+    "code": "99311 - hge",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts history and industrial and organisational psychology",
+    "code": "99311 - hio",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts history and information science",
+    "code": "99311 - his",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts history and private law",
+    "code": "99311 - hpl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts history and theology",
+    "code": "99311 - hth",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and afrikaans",
+    "code": "99311 - isa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and communication science",
+    "code": "99311 - ics",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and communication studies",
+    "code": "99311 - ico",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and criminology",
+    "code": "99311 - isc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and economics",
+    "code": "99311 - ise",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and geography",
+    "code": "99311 - isg",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and industrial and organisational psychology",
+    "code": "99311 - iop",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and politics",
+    "code": "99311 - isp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and private law",
+    "code": "99311 - ipl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and public administration",
+    "code": "99311 - ipa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts information science and theology",
+    "code": "99311 - ist",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts international politics and criminology",
+    "code": "99311 - ipc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts international politics and economics",
+    "code": "99311 - ipe",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts international politics and history",
+    "code": "99311 - iph",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and afrikaans",
+    "code": "99311 - laf",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and ancient history",
+    "code": "99311 - lah",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and archives and records management",
+    "code": "99311 - lar",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and communication science",
+    "code": "99311 - lcs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and communication studies",
+    "code": "99311 - lco",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and french",
+    "code": "99311 - lfr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and geography",
+    "code": "99311 - lge",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and history",
+    "code": "99311 - lhi",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and industrial and organisational psychology",
+    "code": "99311 - lio",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and international politics",
+    "code": "99311 - lip",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and mandarin chinese",
+    "code": "99311 - lmc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and private law",
+    "code": "99311 - lpl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and psychology",
+    "code": "99311 - lps",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and public administration",
+    "code": "99311 - lpa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and theology",
+    "code": "99311 - lth",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts linguistics and theory of literature",
+    "code": "99311 - ltl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts mandarin chinese and communication studies",
+    "code": "99311 - mcc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts ministry and communication studies",
+    "code": "99311 - mcs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts ministry and music in history and society",
+    "code": "99311 - mhs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts ministry and private law",
+    "code": "99311 - mpl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts music in history and society and public administration",
+    "code": "99311 - mhp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts philosophy and private law",
+    "code": "99311 - phl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts philosophy and theology",
+    "code": "99311 - pht",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts philosophy and theory of literature",
+    "code": "99311 - ptl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts politics and anthropology",
+    "code": "99311 - pan",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts politics and criminology",
+    "code": "99311 - poc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts politics and economics",
+    "code": "99311 - pec",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts politics and history",
+    "code": "99311 - phi",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts politics and philosophy",
+    "code": "99311 - pph",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts politics and private law",
+    "code": "99311 - ppl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts politics and religious studies",
+    "code": "99311 - prs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts politics and theology",
+    "code": "99311 - pth",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts portuguese and french",
+    "code": "99311 - pof",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts private law and african languages",
+    "code": "99311 - pla",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts private law and communication science",
+    "code": "99311 - plc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts private law and communication studies",
+    "code": "99311 - pls",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and afrikaans",
+    "code": "99311 - paf",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and arabic",
+    "code": "99311 - psa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and archives and records management",
+    "code": "99311 - par",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and art history",
+    "code": "99311 - pah",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and communication science",
+    "code": "99311 - pcs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and criminology",
+    "code": "99311 - pcr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and economics",
+    "code": "99311 - pse",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and french",
+    "code": "99311 - pfr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and geography",
+    "code": "99311 - pge",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and history",
+    "code": "99311 - psh",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and industrial and organisational psychology",
+    "code": "99311 - pio",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and information science",
+    "code": "99311 - psc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and international politics",
+    "code": "99311 - pip",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and islamic studies",
+    "code": "99311 - pis",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and ministry",
+    "code": "99311 - pmi",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and music in history and society",
+    "code": "99311 - pms",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and philosophy",
+    "code": "99311 - psp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and politics",
+    "code": "99311 - ppo",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and private law",
+    "code": "99311 - psl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and public administration",
+    "code": "99311 - ppa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and religious studies",
+    "code": "99311 - psr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and scripture",
+    "code": "99311 - pss",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts psychology and theology",
+    "code": "99311 - pst",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts religious studies and anthropology",
+    "code": "99311 - rsa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts religious studies and philosophy",
+    "code": "99311 - rsp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts religious studies and sociology",
+    "code": "99311 - rss",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and african languages",
+    "code": "99311 - sal",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and anthropology",
+    "code": "99311 - san",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and communication science",
+    "code": "99311 - scs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and communication studies",
+    "code": "99311 - css",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and criminology",
+    "code": "99311 - scr",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and economics",
+    "code": "99311 - sec",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and geography",
+    "code": "99311 - sge",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and industrial and organisational psychology",
+    "code": "99311 - sio",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and international politics",
+    "code": "99311 - sip",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and politics",
+    "code": "99311 - spo",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and psychology",
+    "code": "99311 - sps",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts sociology and public administration",
+    "code": "99311 - spa",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts theory of literature and geography",
+    "code": "99311 - tlg",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts theory of literature and music in history and society",
+    "code": "99311 - tms",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts theory of literature and private law",
+    "code": "99311 - tpl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in communication science",
+    "code": "98051",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in communication studies",
+    "code": "90186",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in community Development",
+    "code": "98618",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in creative writing",
+    "code": "99313",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in criminology",
+    "code": "98681",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in Development studies",
+    "code": "99312",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in environmental management",
+    "code": "98055",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in forensic science and technology",
+    "code": "90002",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in government, administration and Development",
+    "code": "99301",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in international relations",
+    "code": "99302",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in nursing science health services management and education",
+    "code": "0216X - hhs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in nursing science health services management, education and community health",
+    "code": "0216X - hsm",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in police science",
+    "code": "98683",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in policy studies",
+    "code": "99303",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in political leadership and citizenship",
+    "code": "99304",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in politics, philosophy and economics",
+    "code": "90079",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in psychology",
+    "code": "90180",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of arts in visual multimedia arts",
+    "code": "90091",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of business administration",
+    "code": "98316 - bba",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce",
+    "code": "98314 - gen",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in business informatics",
+    "code": "98300 - bis",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in business management",
+    "code": "98310 - bsm",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in economics",
+    "code": "98305 - ecs",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in economics Quantitative economics",
+    "code": "98305 - Qec",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in entrepreneurship",
+    "code": "90106 - ent",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in financial management",
+    "code": "98306 - fmn",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in human resource management",
+    "code": "98307 - hrm",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in industrial and organisational psychology",
+    "code": "98308 - iop",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in law",
+    "code": "90123 - law",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in marketing management",
+    "code": "98301 - mKt",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in public procurement management",
+    "code": "98767 - ppm",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in Quantitative management",
+    "code": "98311 - Qma",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in supply chain and operations management",
+    "code": "98766 - scm",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in tourism management",
+    "code": "98312 - trt",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of commerce in transport and logistics",
+    "code": "98313 - trl",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of consumer science fashion retail management",
+    "code": "98005 - far",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of consumer science fashion small-business management",
+    "code": "98005 - fsb",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of consumer science food retail management",
+    "code": "98005 - for",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of consumer science food service management",
+    "code": "98005 - fsm",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of consumer science food and clothing",
+    "code": "98005 - fcl",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of consumer science food and nutrition",
+    "code": "98005 - fnU",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of consumer science hospitality management",
+    "code": "98005 - hom",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in foundation phase teaching",
+    "code": "90102",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in intermediate phase teaching",
+    "code": "90103",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in intermediate phase teaching school subject combination: mathematics and life skills",
+    "code": "90103 - mls",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in intermediate phase teaching school subject combination: mathematics and natural sciences and technology",
+    "code": "90103 - mnt",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in intermediate phase teaching school subject combination: mathematics and social science",
+    "code": "90103 - mss",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching agriculture and languages",
+    "code": "90104 - agl",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching art and languages",
+    "code": "90104 - aln",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching business management and life orientation",
+    "code": "90104 - blo",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching geography and life orientation",
+    "code": "90104 - glo",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching geography and life sciences (biology)",
+    "code": "90104 - geb",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching history and economics",
+    "code": "90104 - hse",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching language and economics",
+    "code": "90104 - lec",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching language and life orientation",
+    "code": "90104 - llo",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching language and life sciences (biology)",
+    "code": "90104 - lab",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching language and mathematics",
+    "code": "90104 - lam",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching life orientation and business management",
+    "code": "90104 - lob",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching life orientation and geography",
+    "code": "90104 - lge",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching life orientation and life sciences (biology)",
+    "code": "90104 - lls",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching life sciences (biology) and geography",
+    "code": "90104 - lsg",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching religion studies and history",
+    "code": "90104 - rsh",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: art and life orientation",
+    "code": "90104 - arp",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: agricultural science",
+    "code": "90104 - ags",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: agricultural technology",
+    "code": "90104 - agt",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: agriculture management and life sciences",
+    "code": "90104 - aml",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: agriculture and management",
+    "code": "90104 - agm",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: art and languages",
+    "code": "90104 - arl",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: computer application technology",
+    "code": "90104 - cat",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: consumer studies",
+    "code": "90104 - con",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: economics and management science",
+    "code": "90104 - ems",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: financial accounting",
+    "code": "90104 - fac",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: geography and languages",
+    "code": "90104 - gel",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: history and english",
+    "code": "90104 - hen",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: history and geography",
+    "code": "90104 - hig",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: hospitality studies and business studies",
+    "code": "90104 - hsb",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: hospitality studies and tourism",
+    "code": "90104 - hst",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: information technology",
+    "code": "90104 - ift",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: language",
+    "code": "90104 - lan",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: language and business management",
+    "code": "90104 - lbm",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: life orientation and language",
+    "code": "90104 - lol",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: life science and mathematics",
+    "code": "90104 - lsm",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: life sciences",
+    "code": "90104 - bio",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: mathematical literacy and economics",
+    "code": "90104 - mle",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: mathematical literacy and financial accounting",
+    "code": "90104 - mfa",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: mathematics and english",
+    "code": "90104 - mte",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: mathematics and mathematical literacy",
+    "code": "90104 - mml",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: physical science and mathematics",
+    "code": "90104 - psm",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: religious studies",
+    "code": "90104 - res",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: technology",
+    "code": "90104 - tec",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: tourism and geography",
+    "code": "90104 - trg",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of education in senior phase and further education and training teaching school subject combination: tourism and management",
+    "code": "90104 - trm",
+    "aps": 23,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of information science",
+    "code": "90188",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of information science",
+    "code": "99310",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of laws",
+    "code": "98680 - new",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of music",
+    "code": "90089",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science",
+    "code": "98801 - gen",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science applied mathematics and computer science",
+    "code": "98801 - amc",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science applied mathematics and physics",
+    "code": "98801 - amp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science applied mathematics and statistics",
+    "code": "98801 - ams",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science chemistry and applied mathematics",
+    "code": "98801 - cam",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science chemistry and computer science",
+    "code": "98801 - ccs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science chemistry and information systems",
+    "code": "98801 - cis",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science chemistry and physics",
+    "code": "98801 - cap",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science chemistry and statistics",
+    "code": "98801 - cas",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science mathematics and applied mathematics",
+    "code": "98801 - mam",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science mathematics and chemistry",
+    "code": "98801 - mac",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science mathematics and computer science",
+    "code": "98801 - mcs",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science mathematics and information systems",
+    "code": "98801 - mis",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science mathematics and physics",
+    "code": "98801 - map",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science mathematics and statistics",
+    "code": "98801 - mas",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science statistics and physics",
+    "code": "98801 - stp",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in agricultural science agricultural business and management",
+    "code": "90082 - abm",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in agricultural science animal science",
+    "code": "90082 - ans",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in agricultural science plant science",
+    "code": "90082 - pls",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in computing",
+    "code": "98906 - com",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in environmental management botany",
+    "code": "98052 - ebo",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in environmental management chemistry",
+    "code": "98052 - ech",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in environmental management Zoology",
+    "code": "98052 - eZo",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in informatics",
+    "code": "98907 - inf",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences biochemistry (or physiology or microbiology) with business management",
+    "code": "98053 - bbm",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences biochemistry and botany",
+    "code": "98053 - bab",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences biochemistry and microbiology",
+    "code": "98053 - bam",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences biochemistry and physiology",
+    "code": "98053 - bap",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences biochemistry and Zoology",
+    "code": "98053 - baZ",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences biomedical sciences",
+    "code": "98053 - bmi",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences biotechnology",
+    "code": "98053 - bit",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences botany and microbiology",
+    "code": "98053 - bnm",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences botany and Zoology (with geography)",
+    "code": "98053 - bZg",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences genetics and Zoology (or botany, microbiology, physiology or biochemistry)",
+    "code": "98053 - gZb",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences microbiology and physiology",
+    "code": "98053 - map",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences microbiology and Zoology",
+    "code": "98053 - maZ",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences physiology and Zoology",
+    "code": "98053 - paZ",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of science in life sciences psychology and physiology (with genetics)",
+    "code": "98053 - ppg",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of social work",
+    "code": "90088",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of social work",
+    "code": "99309",
+    "aps": 21,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  },
+  {
+    "type": "Bachelor Degree",
+    "name": "bachelor of theology",
+    "code": "90160",
+    "aps": 20,
+    "must_have": [],
+    "or_groups": [],
+    "rpl": null
+  }
+]
