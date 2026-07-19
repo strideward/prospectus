@@ -1,0 +1,2735 @@
+[
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Finance, Economics and Accounting",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Umlazi-BB",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Finance, Economics and Accounting Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Finance, Economics and Accounting",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Umlazi-BB",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Finance, Economics and Accounting Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Finance, Economics and Accounting",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Umlazi-BB",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Marketing",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Umbumbulu",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Marketing Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Marketing",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Umbumbulu",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Marketing Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Marketing",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Umbumbulu",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Management",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Durban",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Management Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Management",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Durban",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Management Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Management",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Durban",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Office Administration Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Office Administration Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Information Technology and Computer Science",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Information Technology and Computer Science Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Information Technology and Computer Science",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Information Technology and Computer Science Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Business Studies",
+    "name": "Information Technology and Computer Science",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Civil Engineering and Building Construction Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Electrical Infrastructure Construction Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Education and Development Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Education and Development Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Appelsbosch, Swinton, Umbumbulu",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Hospitality Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Appelsbosch, Swinton, Umbumbulu",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Hospitality Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Appelsbosch, Swinton, Umbumbulu",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Primary Agriculture Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Primary Agriculture Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": null,
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Swinton, Umbumbulu",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Tourism Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Swinton, Umbumbulu",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Tourism Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Coastal KZN TVET College",
+    "category": "General Studies",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Swinton, Umbumbulu",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Fitting and Turning)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design (Fitting and Turning) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Fitting and Turning)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design (Fitting and Turning) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Fitting and Turning)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Boilermaking)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design (Boilermaking) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Boilermaking)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design (Boilermaking) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Boilermaking)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Motor Mechanics)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design (Motor Mechanics) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Motor Mechanics)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design (Motor Mechanics) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Motor Mechanics)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Welding)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design (Welding) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Welding)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design (Welding) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Welding)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Light Current)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction (Light Current) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Light Current)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Electrical Infrastructure Construction (Light Current) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Light Current)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Heavy Current)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction (Heavy Current) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Heavy Current)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Electrical Infrastructure Construction (Heavy Current) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction (Heavy Current)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Newcastle Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Carpentry and Roof Work)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction (Carpentry and Roof Work) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Carpentry and Roof Work)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Civil Engineering and Building Construction (Carpentry and Roof Work) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Carpentry and Roof Work)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Masonry)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction (Masonry) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Masonry)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Civil Engineering and Building Construction (Masonry) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Masonry)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Plumbing)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction (Plumbing) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Plumbing)",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Civil Engineering and Building Construction (Plumbing) Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Plumbing)",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Primary Agriculture Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Primary Agriculture Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Engineering Studies",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Majuba Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Office Administration Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Office Administration Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Hospitality Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Hospitality Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, IT And Business Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10, 11, or 12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "A year-end school report for grade 9, 10, 11, or 12 certificate OR an NQF Level 1 Qualification. Subject to Admission Point Score."
+    },
+    "level": 2,
+    "next_level": "NCV: Tourism Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 2 in the specific programme"
+    },
+    "level": 3,
+    "next_level": "NCV: Tourism Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Majuba TVET College",
+    "category": "Business Studies",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centre For People Development, Dundee Technology Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 3 in the specific programme"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Education and Development",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Asherville Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "A year end Grade 9 or a higher certificate with English and Mathematics literacy OR an NQF Level 1 qualification OR an approved bridging programme to NQF Level 2 OR RPL to NQF Level 2"
+    },
+    "level": 2,
+    "next_level": "NCV: Education and Development Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Education and Development",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Asherville Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 2 in Education and Development"
+    },
+    "level": 3,
+    "next_level": "NCV: Education and Development Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Education and Development",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Asherville Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 3 in Education and Development"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Hospitality",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Cato Manor Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or higher certificate"
+    },
+    "level": 2,
+    "next_level": "NCV: Hospitality Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Hospitality",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Cato Manor Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 2 in Hospitality"
+    },
+    "level": 3,
+    "next_level": "NCV: Hospitality Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Hospitality",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Cato Manor Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 3 in Hospitality"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Office Administration",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 pass OR Grade 12"
+    },
+    "level": 2,
+    "next_level": "NCV: Office Administration Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Office Administration",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 2 in Office Administration"
+    },
+    "level": 3,
+    "next_level": "NCV: Office Administration Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Office Administration",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 3 in Office Administration"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Travel and Tourism",
+    "name": "Travel and Tourism",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 pass"
+    },
+    "level": 2,
+    "next_level": "NCV: Travel and Tourism Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Travel and Tourism",
+    "name": "Travel and Tourism",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 2 in Travel and Tourism"
+    },
+    "level": 3,
+    "next_level": "NCV: Travel and Tourism Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Travel and Tourism",
+    "name": "Travel and Tourism",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 3 in Travel and Tourism"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 pass"
+    },
+    "level": 2,
+    "next_level": "NCV: Information Technology and Computer Science Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 2 in Information Technology and Computer Science"
+    },
+    "level": 3,
+    "next_level": "NCV: Information Technology and Computer Science Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 3 in Information Technology and Computer Science"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Springfield Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "A year-end school report for Grade 9 or equivalent (i.e. NQF Level 1) OR RPL assessment OR an approved bridging programme to access NQF Level 2. To be 16 yrs in the first half of the year."
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Springfield Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 2 in Engineering and Related Design"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Springfield Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 3 in Engineering and Related Design"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Transport and Logistics",
+    "name": "Transport and Logistics",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Umbilo Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Minimum Grade 9 pass and 16 years of age"
+    },
+    "level": 2,
+    "next_level": "NCV: Transport and Logistics Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Transport and Logistics",
+    "name": "Transport and Logistics",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Umbilo Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 2 in Transport and Logistics"
+    },
+    "level": 3,
+    "next_level": "NCV: Transport and Logistics Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Transport and Logistics",
+    "name": "Transport and Logistics",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Umbilo Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NCV Level 3 in Transport and Logistics"
+    },
+    "level": 4,
+    "next_level": null
+  }
+]
