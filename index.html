@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>South African Education Portal - Universities & TVET Colleges</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --primary-color: #667eea;
+            --secondary-color: #764ba2;
+            --success-color: #10b981;
+            --warning-color: #f59e0b;
+            --danger-color: #ef4444;
+            --dark-text: #1f2937;
+            --light-text: #6b7280;
+            --light-bg: #f9fafb;
+            --white: #ffffff;
+        }
+        
+        html, body {
+            height: 100%;
+            width: 100%;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: var(--dark-text);
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        /* Header Styles */
+        .header {
+            background: var(--white);
+            border-radius: 15px;
+            padding: 40px 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+        
+        .header h1 {
+            color: var(--dark-text);
+            margin-bottom: 10px;
+            font-size: 3em;
+            font-weight: 700;
+        }
+        
+        .header .subtitle {
+            color: var(--light-text);
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        
+        .header .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .stat-item {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: 700;
+            color: var(--primary-color);
+        }
+        
+        .stat-label {
+            color: var(--light-text);
+            font-size: 0.9em;
+        }
+        
+        /* Navigation Tabs */
+        .nav-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            background: var(--white);
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .nav-tabs button {
+            background: var(--white);
+            border: 2px solid var(--primary-color);
+            color: var(--primary-color);
+            padding: 12px 30px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            min-width: 150px;
+        }
+        
+        .nav-tabs button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+        }
+        
+        .nav-tabs button.active {
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+            color: var(--white);
+            border-color: transparent;
+        }
+        
+        /* Main Content */
+        .main-content {
+            background: var(--white);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+            min-height: 600px;
+        }
+        
+        .tab-pane {
+            display: none;
+            animation: fadeIn 0.3s ease-in;
+        }
+        
+        .tab-pane.active {
+            display: block;
+        }
+        
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        /* Search Box */
+        .search-box {
+            margin-bottom: 30px;
+        }
+        
+        .search-box input {
+            width: 100%;
+            padding: 15px 20px;
+            border: 2px solid #e5e7eb;
+            border-radius: 10px;
+            font-size: 1em;
+            transition: all 0.3s ease;
+        }
+        
+        .search-box input:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+        
+        /* Loading State */
+        .loading {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 60px 20px;
+            color: var(--light-text);
+        }
+        
+        .spinner {
+            border: 4px solid #e5e7eb;
+            border-top: 4px solid var(--primary-color);
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin-bottom: 20px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* Grid Layout */
+        .institutions-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 25px;
+        }
+        
+        /* Institution Card */
+        .institution-card {
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            padding: 25px;
+            background: var(--light-bg);
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            overflow: hidden;
+        }
+        
+        .institution-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 40px rgba(102, 126, 234, 0.2);
+            border-color: var(--primary-color);
+        }
+        
+        .institution-card .logo-container {
+            width: 100%;
+            height: 180px;
+            background: var(--white);
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        
+        .institution-card img {
+            max-width: 90%;
+            max-height: 90%;
+            object-fit: contain;
+        }
+        
+        .institution-card h3 {
+            color: var(--dark-text);
+            margin-bottom: 10px;
+            font-size: 1.2em;
+            font-weight: 700;
+            line-height: 1.4;
+        }
+        
+        .institution-card .badge {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+            color: var(--white);
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        
+        .institution-card .info-item {
+            color: var(--light-text);
+            font-size: 0.95em;
+            margin: 10px 0;
+            padding: 8px 0;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        
+        .institution-card .info-item:last-of-type {
+            border-bottom: none;
+        }
+        
+        .institution-card .info-item strong {
+            color: var(--dark-text);
+            display: block;
+            font-weight: 600;
+            margin-bottom: 3px;
+        }
+        
+        .institution-card .status-badge {
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-size: 0.9em;
+            font-weight: 600;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+        
+        .status-badge.open {
+            background: #d1fae5;
+            color: #065f46;
+        }
+        
+        .status-badge.closed {
+            background: #fee2e2;
+            color: #7f1d1d;
+        }
+        
+        .status-badge.active {
+            background: #dbeafe;
+            color: #0c2d6b;
+        }
+        
+        .institution-card .btn-link {
+            display: inline-block;
+            margin-top: auto;
+            padding: 12px 20px;
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+            color: var(--white);
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .institution-card .btn-link:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+        }
+        
+        /* Subjects Grid */
+        .subjects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        
+        .subject-category {
+            background: var(--light-bg);
+            padding: 20px;
+            border-radius: 12px;
+            border-left: 5px solid var(--primary-color);
+            transition: all 0.3s ease;
+        }
+        
+        .subject-category:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.15);
+        }
+        
+        .subject-category h4 {
+            color: var(--primary-color);
+            margin-bottom: 15px;
+            font-size: 1.1em;
+            font-weight: 700;
+        }
+        
+        .subject-category ul {
+            list-style: none;
+        }
+        
+        .subject-category li {
+            color: var(--light-text);
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+            font-size: 0.95em;
+        }
+        
+        .subject-category li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--success-color);
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        
+        /* Error Message */
+        .error-message {
+            background: #fee2e2;
+            color: #7f1d1d;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid var(--danger-color);
+            margin: 20px 0;
+        }
+        
+        /* No Results */
+        .no-results {
+            text-align: center;
+            padding: 80px 20px;
+            color: var(--light-text);
+        }
+        
+        .no-results svg {
+            width: 100px;
+            height: 100px;
+            margin-bottom: 20px;
+            opacity: 0.5;
+        }
+        
+        .no-results h3 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+            color: var(--dark-text);
+        }
+        
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: var(--white);
+            margin-top: 30px;
+        }
+        
+        .footer p {
+            margin: 5px 0;
+        }
+        
+        .footer a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .header {
+                padding: 25px;
+            }
+            
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .header .stats {
+                gap: 20px;
+            }
+            
+            .institutions-grid,
+            .subjects-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .nav-tabs {
+                flex-direction: column;
+            }
+            
+            .nav-tabs button {
+                width: 100%;
+            }
+            
+            .main-content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>🎓 South African Education Portal</h1>
+            <p class="subtitle">Explore Universities, TVET Colleges & Academic Subjects</p>
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-number">25</div>
+                    <div class="stat-label">Universities</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">50+</div>
+                    <div class="stat-label">TVET Colleges</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">79+</div>
+                    <div class="stat-label">Academic Subjects</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Navigation Tabs -->
+        <div class="nav-tabs">
+            <button class="active" onclick="switchTab('universities')">
+                🏫 Universities
+            </button>
+            <button onclick="switchTab('tvet')">
+                🏢 TVET Colleges
+            </button>
+            <button onclick="switchTab('subjects')">
+                📚 Subjects
+            </button>
+        </div>
+        
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Universities Tab -->
+            <div id="universities" class="tab-pane active">
+                <div class="search-box">
+                    <input type="text" id="uniSearch" placeholder="🔍 Search universities by name, location, or abbreviation..." onkeyup="filterUniversities()">
+                </div>
+                <div id="uniLoading" class="loading">
+                    <div class="spinner"></div>
+                    <p>Loading universities...</p>
+                </div>
+                <div id="uniContainer" class="institutions-grid" style="display: none;"></div>
+            </div>
+            
+            <!-- TVET Colleges Tab -->
+            <div id="tvet" class="tab-pane">
+                <div class="search-box">
+                    <input type="text" id="tvetSearch" placeholder="🔍 Search TVET colleges by name, location, or abbreviation..." onkeyup="filterTVET()">
+                </div>
+                <div id="tvetLoading" class="loading">
+                    <div class="spinner"></div>
+                    <p>Loading TVET colleges...</p>
+                </div>
+                <div id="tvetContainer" class="institutions-grid" style="display: none;"></div>
+            </div>
+            
+            <!-- Subjects Tab -->
+            <div id="subjects" class="tab-pane">
+                <div id="subjectsLoading" class="loading">
+                    <div class="spinner"></div>
+                    <p>Loading subjects...</p>
+                </div>
+                <div id="subjectsContainer" class="subjects-grid" style="display: none;"></div>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div class="footer">
+            <p>📍 South African Education Portal | All data sourced from official institutions</p>
+            <p>Data powered by <a href="https://github.com/strideward/helpdesk-central" target="_blank">GitHub Repository</a></p>
+            <p>&copy; 2026 All Rights Reserved</p>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const GITHUB_BASE = 'https://raw.githubusercontent.com/strideward/helpdesk-central/main';
+        
+        // Data Storage
+        let universitiesData = [];
+        let tvetData = [];
+        let subjectsData = null;
+        let filteredUniversities = [];
+        let filteredTVET = [];
+        
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            loadAllData();
+        });
+        
+        // Load all data
+        function loadAllData() {
+            loadUniversities();
+            loadTVETColleges();
+            loadSubjects();
+        }
+        
+        // Load Universities Data
+        function loadUniversities() {
+            fetch(`${GITHUB_BASE}/universities.json`)
+                .then(response => {
+                    if (!response.ok) throw new Error('Failed to fetch universities');
+                    return response.json();
+                })
+                .then(data => {
+                    universitiesData = data.universities || data;
+                    filteredUniversities = [...universitiesData];
+                    displayUniversities(universitiesData);
+                    document.getElementById('uniLoading').style.display = 'none';
+                    document.getElementById('uniContainer').style.display = 'grid';
+                })
+                .catch(error => {
+                    console.error('Error loading universities:', error);
+                    document.getElementById('uniLoading').innerHTML = '<div class="error-message">❌ Failed to load universities. Please try again later.</div>';
+                });
+        }
+        
+        // Load TVET Colleges Data
+        function loadTVETColleges() {
+            fetch(`${GITHUB_BASE}/tvet_colleges.json`)
+                .then(response => {
+                    if (!response.ok) throw new Error('Failed to fetch TVET colleges');
+                    return response.json();
+                })
+                .then(data => {
+                    tvetData = data.colleges || data;
+                    filteredTVET = [...tvetData];
+                    displayTVET(tvetData);
+                    document.getElementById('tvetLoading').style.display = 'none';
+                    document.getElementById('tvetContainer').style.display = 'grid';
+                })
+                .catch(error => {
+                    console.error('Error loading TVET colleges:', error);
+                    document.getElementById('tvetLoading').innerHTML = '<div class="error-message">❌ Failed to load TVET colleges. Please try again later.</div>';
+                });
+        }
+        
+        // Load Subjects Data
+        function loadSubjects() {
+            fetch(`${GITHUB_BASE}/subjects.json`)
+                .then(response => {
+                    if (!response.ok) throw new Error('Failed to fetch subjects');
+                    return response.json();
+                })
+                .then(data => {
+                    subjectsData = data;
+                    displaySubjects(data);
+                    document.getElementById('subjectsLoading').style.display = 'none';
+                    document.getElementById('subjectsContainer').style.display = 'grid';
+                })
+                .catch(error => {
+                    console.error('Error loading subjects:', error);
+                    document.getElementById('subjectsLoading').innerHTML = '<div class="error-message">❌ Failed to load subjects. Please try again later.</div>';
+                });
+        }
+        
+        // Display Universities
+        function displayUniversities(unis) {
+            const container = document.getElementById('uniContainer');
+            
+            if (unis.length === 0) {
+                container.innerHTML = `
+                    <div style="grid-column: 1/-1;">
+                        <div class="no-results">
+                            <h3>No universities found</h3>
+                            <p>Try adjusting your search criteria</p>
+                        </div>
+                    </div>
+                `;
+                return;
+            }
+            
+            let html = '';
+            unis.forEach(uni => {
+                const statusClass = uni.status === 'CLOSED' ? 'closed' : 'open';
+                const statusText = uni.status || 'OPEN';
+                
+                html += `
+                    <div class="institution-card">
+                        <div class="logo-container">
+                            <img src="${uni.logo || 'https://via.placeholder.com/200x100?text=' + encodeURIComponent(uni.abbreviation)}" 
+                                 alt="${uni.name}" 
+                                 onerror="this.src='https://via.placeholder.com/200x100?text=' + encodeURIComponent('${uni.abbreviation}')">
+                        </div>
+                        <h3>${uni.name}</h3>
+                        <span class="badge">${uni.abbreviation}</span>
+                        
+                        <div class="info-item">
+                            <strong>📍 Location</strong>
+                            ${uni.location}
+                        </div>
+                        
+                        <div class="info-item">
+                            <strong>📅 Applications Open</strong>
+                            ${uni.application_opening_date || 'N/A'}
+                        </div>
+                        
+                        <div class="info-item">
+                            <strong>⏰ Applications Close</strong>
+                            ${uni.application_closing_date || 'N/A'}
+                        </div>
+                        
+                        <div class="info-item">
+                            <strong>💰 Application Fee</strong>
+                            ${uni.application_fee || 'N/A'}
+                        </div>
+                        
+                        <span class="status-badge ${statusClass}">${statusText}</span>
+                        
+                        <a href="${uni.website}" target="_blank" class="btn-link">
+                            Visit Website →
+                        </a>
+                    </div>
+                `;
+            });
+            
+            container.innerHTML = html;
+        }
+        
+        // Display TVET Colleges
+        function displayTVET(colleges) {
+            const container = document.getElementById('tvetContainer');
+            
+            if (colleges.length === 0) {
+                container.innerHTML = `
+                    <div style="grid-column: 1/-1;">
+                        <div class="no-results">
+                            <h3>No TVET colleges found</h3>
+                            <p>Try adjusting your search criteria</p>
+                        </div>
+                    </div>
+                `;
+                return;
+            }
+            
+            let html = '';
+            colleges.forEach(college => {
+                html += `
+                    <div class="institution-card">
+                        <div class="logo-container">
+                            <img src="${college.logo || 'https://via.placeholder.com/200x100?text=' + encodeURIComponent(college.abbreviation)}" 
+                                 alt="${college.name}"
+                                 onerror="this.src='https://via.placeholder.com/200x100?text=' + encodeURIComponent('${college.abbreviation}')">
+                        </div>
+                        <h3>${college.name}</h3>
+                        <span class="badge">${college.abbreviation}</span>
+                        
+                        <div class="info-item">
+                            <strong>📍 Location</strong>
+                            ${college.location || 'N/A'}
+                        </div>
+                        
+                        <div class="info-item">
+                            <strong>🌐 Website</strong>
+                            <a href="${college.website}" target="_blank" style="color: var(--primary-color);">${college.website}</a>
+                        </div>
+                        
+                        ${college.status ? `<span class="status-badge active">${college.status}</span>` : ''}
+                        
+                        <a href="${college.website}" target="_blank" class="btn-link">
+                            Visit Website →
+                        </a>
+                    </div>
+                `;
+            });
+            
+            container.innerHTML = html;
+        }
+        
+        // Display Subjects
+        function displaySubjects(data) {
+            const container = document.getElementById('subjectsContainer');
+            let html = '';
+            
+            if (data.categories && Array.isArray(data.categories)) {
+                data.categories.forEach(category => {
+                    if (category.name && category.subjects && Array.isArray(category.subjects)) {
+                        html += `
+                            <div class="subject-category">
+                                <h4>${category.name}</h4>
+                                <ul>
+                        `;
+                        
+                        category.subjects.forEach(subject => {
+                            html += `<li>${subject.name}</li>`;
+                        });
+                        
+                        html += `
+                                </ul>
+                            </div>
+                        `;
+                    }
+                });
+            }
+            
+            if (html === '') {
+                html = '<div style="grid-column: 1/-1;"><div class="no-results"><h3>No subjects data available</h3></div></div>';
+            }
+            
+            container.innerHTML = html;
+        }
+        
+        // Filter Universities
+        function filterUniversities() {
+            const searchTerm = document.getElementById('uniSearch').value.toLowerCase();
+            
+            filteredUniversities = universitiesData.filter(uni =>
+                uni.name.toLowerCase().includes(searchTerm) ||
+                uni.location.toLowerCase().includes(searchTerm) ||
+                uni.abbreviation.toLowerCase().includes(searchTerm)
+            );
+            
+            displayUniversities(filteredUniversities);
+        }
+        
+        // Filter TVET Colleges
+        function filterTVET() {
+            const searchTerm = document.getElementById('tvetSearch').value.toLowerCase();
+            
+            filteredTVET = tvetData.filter(college =>
+                college.name.toLowerCase().includes(searchTerm) ||
+                college.location.toLowerCase().includes(searchTerm) ||
+                college.abbreviation.toLowerCase().includes(searchTerm)
+            );
+            
+            displayTVET(filteredTVET);
+        }
+        
+        // Switch Tabs
+        function switchTab(tabName) {
+            // Hide all tabs
+            const panes = document.querySelectorAll('.tab-pane');
+            panes.forEach(pane => pane.classList.remove('active'));
+            
+            // Remove active class from all buttons
+            const buttons = document.querySelectorAll('.nav-tabs button');
+            buttons.forEach(btn => btn.classList.remove('active'));
+            
+            // Show selected tab
+            document.getElementById(tabName).classList.add('active');
+            
+            // Add active class to clicked button
+            event.target.classList.add('active');
+            
+            // Clear search boxes
+            document.getElementById('uniSearch').value = '';
+            document.getElementById('tvetSearch').value = '';
+        }
+    </script>
+</body>
+</html>
