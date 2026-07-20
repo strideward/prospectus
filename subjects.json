@@ -3,18 +3,18 @@
     {
       "name": "Languages",
       "subjects": [
-        { "id": "afrikaans", "name": "Afrikaans", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "english", "name": "English", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "isindebele", "name": "isiNdebele", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "isixhosa", "name": "isiXhosa", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "isizulu", "name": "isiZulu", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "sepedi", "name": "Sepedi", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "sesotho", "name": "Sesotho", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "setswana", "name": "Setswana", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "siswati", "name": "Siswati", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "tshivenda", "name": "Tshivenda", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "xitsonga", "name": "Xitsonga", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-        { "id": "south-african-sign-language", "name": "South African Sign Language", "levels": ["Home Language"] }
+        { "id": "afrikaans", "name": "Afrikaans" },
+        { "id": "english", "name": "English" },
+        { "id": "isindebele", "name": "isiNdebele" },
+        { "id": "isixhosa", "name": "isiXhosa" },
+        { "id": "isizulu", "name": "isiZulu" },
+        { "id": "sepedi", "name": "Sepedi" },
+        { "id": "sesotho", "name": "Sesotho" },
+        { "id": "setswana", "name": "Setswana" },
+        { "id": "siswati", "name": "Siswati" },
+        { "id": "tshivenda", "name": "Tshivenda" },
+        { "id": "xitsonga", "name": "Xitsonga" },
+        { "id": "south-african-sign-language", "name": "South African Sign Language" }
       ]
     },
     {
@@ -116,248 +116,106 @@
         { "id": "equine-studies", "name": "Equine Studies" }
       ]
     },
-{
-  "GETC_ABET": {
-    "description": "General Education and Training Certificate - ABET Level 4 (NQF Level 1) & Traditional School Subjects",
-    "categories": [
-      {
-        "name": "Languages",
-        "subjects": [
-          { "id": "afrikaans", "name": "Afrikaans", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "english", "name": "English", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "isindebele", "name": "isiNdebele", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "isixhosa", "name": "isiXhosa", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "isizulu", "name": "isiZulu", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "sepedi", "name": "Sepedi", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "sesotho", "name": "Sesotho", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "setswana", "name": "Setswana", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "siswati", "name": "Siswati", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "tshivenda", "name": "Tshivenda", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "xitsonga", "name": "Xitsonga", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
-          { "id": "south-african-sign-language", "name": "South African Sign Language", "levels": ["Home Language"] }
-        ]
-      },
-      {
-        "name": "Mathematics",
-        "subjects": [
-          { "id": "mathematics", "name": "Mathematics" },
-          { "id": "mathematical-literacy", "name": "Mathematical Literacy" },
-          { "id": "technical-mathematics", "name": "Technical Mathematics" }
-        ]
-      },
-      {
-        "name": "Science",
-        "subjects": [
-          { "id": "natural-sciences", "name": "Natural Sciences" },
-          { "id": "life-sciences", "name": "Life Sciences" },
-          { "id": "physical-sciences", "name": "Physical Sciences" },
-          { "id": "technical-sciences", "name": "Technical Sciences" },
-          { "id": "marine-sciences", "name": "Marine Sciences" }
-        ]
-      },
-      {
-        "name": "Commerce",
-        "subjects": [
-          { "id": "accounting", "name": "Accounting" },
-          { "id": "business-studies", "name": "Business Studies" },
-          { "id": "economics", "name": "Economics" },
-          { "id": "economic-and-management-sciences", "name": "Economic and Management Sciences (EMS)" },
-          { "id": "maritime-economics", "name": "Maritime Economics" }
-        ]
-      },
-      {
-        "name": "Agriculture",
-        "subjects": [
-          { "id": "agricultural-sciences", "name": "Agricultural Sciences" },
-          { "id": "agricultural-technology", "name": "Agricultural Technology" },
-          { "id": "agricultural-management-practices", "name": "Agricultural Management Practices" }
-        ]
-      },
-      {
-        "name": "Technology",
-        "subjects": [
-          { "id": "technology", "name": "Technology" },
-          { "id": "civil-technology", "name": "Civil Technology" },
-          { "id": "electrical-technology", "name": "Electrical Technology" },
-          { "id": "mechanical-technology", "name": "Mechanical Technology" },
-          { "id": "engineering-graphics-and-design", "name": "Engineering Graphics and Design (EGD)" },
-          { "id": "computer-applications-technology", "name": "Computer Applications Technology (CAT)" },
-          { "id": "information-technology", "name": "Information Technology (IT)" },
-          { "id": "technical-civil-technology", "name": "Technical Civil Technology" },
-          { "id": "technical-electrical-technology", "name": "Technical Electrical Technology" },
-          { "id": "technical-mechanical-technology", "name": "Technical Mechanical Technology" },
-          { "id": "coding-and-robotics", "name": "Coding and Robotics" }
-        ]
-      },
-      {
-        "name": "Humanities",
-        "subjects": [
-          { "id": "history", "name": "History" },
-          { "id": "geography", "name": "Geography" },
-          { "id": "social-sciences", "name": "Social Sciences" },
-          { "id": "religion-studies", "name": "Religion Studies" }
-        ]
-      },
-      {
-        "name": "Arts",
-        "subjects": [
-          { "id": "creative-arts", "name": "Creative Arts" },
-          { "id": "visual-arts", "name": "Visual Arts" },
-          { "id": "design", "name": "Design" },
-          { "id": "dance-studies", "name": "Dance Studies" },
-          { "id": "dramatic-arts", "name": "Dramatic Arts" },
-          { "id": "music", "name": "Music" }
-        ]
-      },
-      {
-        "name": "Consumer & Services",
-        "subjects": [
-          { "id": "consumer-studies", "name": "Consumer Studies" },
-          { "id": "hospitality-studies", "name": "Hospitality Studies" },
-          { "id": "tourism", "name": "Tourism" }
-        ]
-      },
-      {
-        "name": "Health & Physical Education",
-        "subjects": [
-          { "id": "life-orientation", "name": "Life Orientation" },
-          { "id": "sport-and-exercise-science", "name": "Sport and Exercise Science" }
-        ]
-      },
-      {
-        "name": "Maritime",
-        "subjects": [
-          { "id": "nautical-science", "name": "Nautical Science" }
-        ]
-      },
-      {
-        "name": "Animal Studies",
-        "subjects": [
-          { "id": "equine-studies", "name": "Equine Studies" }
-        ]
-      }
-    ]
-  },
-
-  "NCV_FET": {
-    "description": "National Certificate Vocational - Levels 2 to 4 (NQF Levels 2-4) - Complete List of All 79 Subjects",
-    "total_unique_subjects": 79,
-    "fundamental_subjects": {
-      "description": "Compulsory for EVERY NC(V) student (3 subjects)",
-      "total": 3,
+    {
+      "name": "NCV - Business, Commerce & Management",
       "subjects": [
-        "Language / Communication (e.g., English First Additional Language)",
-        "Life Orientation (includes Life Skills and Basic Computer Literacy)",
-        "Mathematics OR Mathematical Literacy"
+        { "id": "business-practice", "name": "Business Practice" },
+        { "id": "office-practice", "name": "Office Practice" },
+        { "id": "office-data-processing", "name": "Office Data Processing" },
+        { "id": "applied-accounting", "name": "Applied Accounting" },
+        { "id": "economic-environment", "name": "Economic Environment" },
+        { "id": "new-venture-creation", "name": "New Venture Creation" },
+        { "id": "financial-management", "name": "Financial Management" },
+        { "id": "management-practice", "name": "Management Practice" },
+        { "id": "operations-management", "name": "Operations Management" },
+        { "id": "entrepreneurship", "name": "Entrepreneurship" },
+        { "id": "advertising-promotions", "name": "Advertising and Promotions" },
+        { "id": "marketing", "name": "Marketing" },
+        { "id": "marketing-communication", "name": "Marketing Communication" },
+        { "id": "consumer-behavior", "name": "Consumer Behavior" },
+        { "id": "freight-logistics", "name": "Freight Logistics" },
+        { "id": "transport-economics", "name": "Transport Economics" }
       ]
     },
-    "core_subjects_by_field": {
-      "Business_Commerce_Management": {
-        "description": "Business, Commerce & Management Core Subjects",
-        "total": 16,
-        "subjects": [
-          "Business Practice",
-          "Office Practice",
-          "Office Data Processing",
-          "Applied Accounting",
-          "Economic Environment",
-          "New Venture Creation",
-          "Financial Management",
-          "Management Practice",
-          "Operations Management",
-          "Entrepreneurship",
-          "Advertising and Promotions",
-          "Marketing",
-          "Marketing Communication",
-          "Consumer Behavior",
-          "Freight Logistics",
-          "Transport Economics"
-        ]
-      },
-      "Engineering_Manufacturing_Drafting": {
-        "description": "Engineering, Manufacturing & Drafting Core Subjects",
-        "total": 24,
-        "subjects": [
-          "Construction Materials",
-          "Building and Structural Construction",
-          "Civil and Structural Drafting",
-          "Carpentry and Roof Work",
-          "Masonry",
-          "Plumbing",
-          "Electrical Principles and Practice",
-          "Workshop Practice",
-          "Electronic Control",
-          "Digital Electronics",
-          "Electrical Systems and Construction",
-          "Engineering Processes",
-          "Professional Engineering Practice",
-          "Applied Engineering Technology",
-          "Fitting and Turning",
-          "Automotive Repair and Maintenance",
-          "Welding",
-          "Introduction to Mechatronics",
-          "Mechatronic Systems",
-          "Computer Integrated Manufacturing",
-          "Stored Programme Systems",
-          "Architectural Graphics and Technology",
-          "Mechanical Draughting and Technology",
-          "Drawing Office Procedures"
-        ]
-      },
-      "Technology_Science_ProcessControl": {
-        "description": "Technology, Science & Process Control Core Subjects",
-        "total": 12,
-        "subjects": [
-          "Introduction to Information Systems",
-          "Electronics and Digital Concepts",
-          "Introduction to Systems Development",
-          "Contact Centre Operations",
-          "Process Chemistry",
-          "Process Materials",
-          "Process Technology",
-          "Pulp and Paper Making Technology",
-          "Chemical Technology",
-          "Process Control",
-          "Instrumentation and Control",
-          "Systems and Control"
-        ]
-      },
-      "Hospitality_Tourism_Services": {
-        "description": "Hospitality, Tourism & Services Core Subjects",
-        "total": 13,
-        "subjects": [
-          "Science of Tourism",
-          "Sustainable Tourism",
-          "Tourism Operations",
-          "Client Services and Human Relations",
-          "Hospitality Generics",
-          "Food Preparation",
-          "Hospitality Services",
-          "Transport Operations",
-          "Project Management",
-          "Soil Science",
-          "Plant Production",
-          "Animal Production",
-          "Agribusiness"
-        ]
-      },
-      "Safety_Health_SocialDevelopment": {
-        "description": "Safety, Health & Social Development Core Subjects",
-        "total": 11,
-        "subjects": [
-          "Art and Science of Teaching",
-          "Human and Social Development",
-          "Learning Psychology",
-          "Early Childhood Development",
-          "Introduction to Governance and Law",
-          "Principles of Criminal Justice",
-          "Introduction to Policing",
-          "Law of Procedures and Evidence",
-          "Human Body and Health",
-          "Primary Health Care",
-          "Community Health Work"
-        ]
-      }
+    {
+      "name": "NCV - Engineering, Manufacturing & Drafting",
+      "subjects": [
+        { "id": "construction-materials", "name": "Construction Materials" },
+        { "id": "building-structural-construction", "name": "Building and Structural Construction" },
+        { "id": "civil-structural-drafting", "name": "Civil and Structural Drafting" },
+        { "id": "carpentry-roof-work", "name": "Carpentry and Roof Work" },
+        { "id": "masonry", "name": "Masonry" },
+        { "id": "plumbing", "name": "Plumbing" },
+        { "id": "electrical-principles-practice", "name": "Electrical Principles and Practice" },
+        { "id": "workshop-practice", "name": "Workshop Practice" },
+        { "id": "electronic-control", "name": "Electronic Control" },
+        { "id": "digital-electronics", "name": "Digital Electronics" },
+        { "id": "electrical-systems-construction", "name": "Electrical Systems and Construction" },
+        { "id": "engineering-processes", "name": "Engineering Processes" },
+        { "id": "professional-engineering-practice", "name": "Professional Engineering Practice" },
+        { "id": "applied-engineering-technology", "name": "Applied Engineering Technology" },
+        { "id": "fitting-turning", "name": "Fitting and Turning" },
+        { "id": "automotive-repair-maintenance", "name": "Automotive Repair and Maintenance" },
+        { "id": "welding", "name": "Welding" },
+        { "id": "intro-mechatronics", "name": "Introduction to Mechatronics" },
+        { "id": "mechatronic-systems", "name": "Mechatronic Systems" },
+        { "id": "computer-integrated-manufacturing", "name": "Computer Integrated Manufacturing" },
+        { "id": "stored-programme-systems", "name": "Stored Programme Systems" },
+        { "id": "architectural-graphics-technology", "name": "Architectural Graphics and Technology" },
+        { "id": "mechanical-draughting-technology", "name": "Mechanical Draughting and Technology" },
+        { "id": "drawing-office-procedures", "name": "Drawing Office Procedures" }
+      ]
+    },
+    {
+      "name": "NCV - Technology, Science & Process Control",
+      "subjects": [
+        { "id": "intro-information-systems", "name": "Introduction to Information Systems" },
+        { "id": "electronics-digital-concepts", "name": "Electronics and Digital Concepts" },
+        { "id": "intro-systems-development", "name": "Introduction to Systems Development" },
+        { "id": "contact-centre-operations", "name": "Contact Centre Operations" },
+        { "id": "process-chemistry", "name": "Process Chemistry" },
+        { "id": "process-materials", "name": "Process Materials" },
+        { "id": "process-technology", "name": "Process Technology" },
+        { "id": "pulp-paper-making-technology", "name": "Pulp and Paper Making Technology" },
+        { "id": "chemical-technology", "name": "Chemical Technology" },
+        { "id": "process-control", "name": "Process Control" },
+        { "id": "instrumentation-control", "name": "Instrumentation and Control" },
+        { "id": "systems-control", "name": "Systems and Control" }
+      ]
+    },
+    {
+      "name": "NCV - Hospitality, Tourism & Services",
+      "subjects": [
+        { "id": "science-tourism", "name": "Science of Tourism" },
+        { "id": "sustainable-tourism", "name": "Sustainable Tourism" },
+        { "id": "tourism-operations", "name": "Tourism Operations" },
+        { "id": "client-services-human-relations", "name": "Client Services and Human Relations" },
+        { "id": "hospitality-generics", "name": "Hospitality Generics" },
+        { "id": "food-preparation", "name": "Food Preparation" },
+        { "id": "hospitality-services", "name": "Hospitality Services" },
+        { "id": "transport-operations", "name": "Transport Operations" },
+        { "id": "project-management", "name": "Project Management" },
+        { "id": "soil-science", "name": "Soil Science" },
+        { "id": "plant-production", "name": "Plant Production" },
+        { "id": "animal-production", "name": "Animal Production" },
+        { "id": "agribusiness", "name": "Agribusiness" }
+      ]
+    },
+    {
+      "name": "NCV - Safety, Health & Social Development",
+      "subjects": [
+        { "id": "art-science-teaching", "name": "Art and Science of Teaching" },
+        { "id": "human-social-development", "name": "Human and Social Development" },
+        { "id": "learning-psychology", "name": "Learning Psychology" },
+        { "id": "early-childhood-development", "name": "Early Childhood Development" },
+        { "id": "intro-governance-law", "name": "Introduction to Governance and Law" },
+        { "id": "principles-criminal-justice", "name": "Principles of Criminal Justice" },
+        { "id": "intro-policing", "name": "Introduction to Policing" },
+        { "id": "law-procedures-evidence", "name": "Law of Procedures and Evidence" },
+        { "id": "human-body-health", "name": "Human Body and Health" },
+        { "id": "primary-health-care", "name": "Primary Health Care" },
+        { "id": "community-health-work", "name": "Community Health Work" }
+      ]
     }
-  }
+  ]
 }
