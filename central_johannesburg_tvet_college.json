@@ -1,0 +1,1390 @@
+[
+  {
+    "type": "Occupational Certificate",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Hairdresser",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 3,
+    "credits": null,
+    "campus": "Alexandra Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 1, Grade 09 or equivalent"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Art & Design",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Smit Street Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": 24,
+      "rpl_allowed": true,
+      "requirement_text": "APS 24 using double English + 4 next best subjects; portfolio required"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Building & Civil Engineering",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Ellis Park Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "Mathematics / Technical Math", "min_mark": 50 },
+        { "subject": "Physical Science / Technology", "min_mark": 50 },
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": 24,
+      "rpl_allowed": true,
+      "requirement_text": "APS 24 using double Math/Technical Math + 1 relevant Technology subject or Physical Science + English + 2 next best"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Business Management",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Parktown Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Accounting OR Mathematics OR Mathematical Literacy OR Economics OR Business Studies", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": 25,
+      "rpl_allowed": true,
+      "requirement_text": "APS 25 using double English + Accounting/Mathematics/Mathematical Literacy/Economics/Business Studies + 2 next best"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Mechanical Engineering",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra, Ellis Park, Riverlea Campuses",
+    "subjects": {
+      "must_have": [
+        { "subject": "Mathematics", "min_mark": 50 },
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4 with Mathematics"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Clothing Production",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": 24,
+      "rpl_allowed": true,
+      "requirement_text": "APS 24 using double English + 4 next best subjects; portfolio required"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Cosmetology",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Electrical Engineering (Heavy Current)",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra, Ellis Park, Riverlea Campuses",
+    "subjects": {
+      "must_have": [
+        { "subject": "Mathematics", "min_mark": 50 },
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4 with Mathematics"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Electrical Engineering (Light Current)",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra, Ellis Park, Riverlea Campuses",
+    "subjects": {
+      "must_have": [
+        { "subject": "Mathematics", "min_mark": 50 },
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4 with Mathematics"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Financial Management",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Parktown Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Haircare",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Smit Street Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": 24,
+      "rpl_allowed": true,
+      "requirement_text": "APS 24 using double English + 4 next best subjects"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Human Resource Management",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Parktown Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": 24,
+      "rpl_allowed": true,
+      "requirement_text": "APS 24 using double English + 4 next best subjects"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Studio Work",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Smit Street Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": 24,
+      "rpl_allowed": true,
+      "requirement_text": "APS 24 using double English + 4 next best subjects"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Travel & Tourism",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Riverlea Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Music Performance",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Smit Street Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": 24,
+      "rpl_allowed": true,
+      "requirement_text": "APS 24 using double English + 4 next best subjects"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Central Johannesburg TVET College",
+    "name": "Marketing Management",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Parktown Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": 4,
+      "matric_required": true,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "General Studies",
+    "name": "Cosmetology",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Cosmetology Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "General Studies",
+    "name": "Cosmetology",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Cosmetology Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "General Studies",
+    "name": "Cosmetology",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Ellis Park Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Ellis Park Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Civil Engineering and Building Construction Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Ellis Park Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design – Electrical",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Ellis Park Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design – Electrical Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design – Electrical",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Ellis Park Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design – Electrical Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design – Electrical",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Ellis Park Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design – Fitting and Turning",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Ellis Park Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design – Fitting and Turning Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design – Fitting and Turning",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Ellis Park Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design – Fitting and Turning Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design – Fitting and Turning",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Ellis Park Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design – Motor or Welding",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design – Motor or Welding Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design – Motor or Welding",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Engineering and Related Design – Motor or Welding Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design – Motor or Welding",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Alexandra Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Finance, Economics and Accounting",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Finance, Economics and Accounting Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Finance, Economics and Accounting",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Finance, Economics and Accounting Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Finance, Economics and Accounting",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "General Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Smit Street Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Hospitality Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "General Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Smit Street Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Hospitality Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "General Studies",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Smit Street Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Information and Communication Technology",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Troyeville Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Information and Communication Technology Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Information and Communication Technology",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Troyeville Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Information and Communication Technology Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Information and Communication Technology",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Troyeville Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematics", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Business Management",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Business Management Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Business Management",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Business Management Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Business Management",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Marketing Management",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Marketing Management Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Marketing Management",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Marketing Management Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Marketing Management",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
+    },
+    "level": 2,
+    "next_level": "NCV: Office Administration Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": 2,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 3: Level 2 or equivalent qualification"
+    },
+    "level": 3,
+    "next_level": "NCV: Office Administration Level 4"
+  },
+  {
+    "type": "NCV",
+    "institution": "Central Johannesburg TVET College",
+    "category": "Business Studies",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Langlaagte Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Mathematical Literacy", "min_mark": 50 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": 3,
+      "matric_required": false,
+      "aps": null,
+      "rpl_allowed": true,
+      "requirement_text": "Level 4: Level 3 or equivalent qualification"
+    },
+    "level": 4,
+    "next_level": null
+  }
+]
