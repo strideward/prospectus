@@ -1,0 +1,291 @@
+{
+  "country": "South Africa",
+  "universities": [
+    {
+      "name": "Cape Peninsula University of Technology",
+      "abbreviation": "CPUT",
+      "website": "https://www.cput.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Cape_Peninsula_University_of_Technology-logo.webp",
+      "location": "Cape Town, Western Cape",
+      "application_opening_date": "11 May",
+      "application_closing_date": "30 September",
+      "application_fee": "R100",
+      "status": "OPEN"
+    },
+    {
+      "name": "Central University of Technology",
+      "abbreviation": "CUT",
+      "website": "https://www.cut.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Central_University_of_Technology-logo.webp",
+      "location": "Bloemfontein, Free State",
+      "application_opening_date": "1 April",
+      "application_closing_date": "30 September",
+      "application_fee": "Contact CUT",
+      "status": "OPEN"
+    },
+    {
+      "name": "Durban University of Technology",
+      "abbreviation": "DUT",
+      "website": "https://www.dut.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Durban_University_of_Technology-logo.webp",
+      "location": "Durban, KwaZulu-Natal",
+      "application_opening_date": "1 March",
+      "application_closing_date": "30 September",
+      "application_fee": "As Per CAO",
+      "status": "OPEN"
+    },
+    {
+      "name": "Mangosuthu University of Technology",
+      "abbreviation": "MUT",
+      "website": "https://www.mut.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Mangosuthu_University_of_Technology-logo.webp",
+      "location": "Durban, KwaZulu-Natal",
+      "application_opening_date": "1 March",
+      "application_closing_date": "30 September",
+      "application_fee": "As per CAO",
+      "status": "OPEN"
+    },
+    {
+      "name": "Nelson Mandela University",
+      "abbreviation": "NMU",
+      "website": "https://www.mandela.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Nelson_Mandela_University-logo.webp",
+      "location": "Gqeberha, Eastern Cape",
+      "application_opening_date": "1 April",
+      "application_closing_date": "30 September",
+      "application_fee": "Free",
+      "status": "OPEN"
+    },
+    {
+      "name": "North-West University",
+      "abbreviation": "NWU",
+      "website": "https://www.nwu.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/North-West_University-logo.webp",
+      "location": "Potchefstroom, North West",
+      "application_opening_date": "1 June",
+      "application_closing_date": "30 September",
+      "application_fee": "R150",
+      "status": "OPEN"
+    },
+    {
+      "name": "Rhodes University",
+      "abbreviation": "RU",
+      "website": "https://www.ru.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Rhodes_University-logo.webp",
+      "location": "Makhanda, Eastern Cape",
+      "application_opening_date": "April",
+      "application_closing_date": "30 September",
+      "application_fee": "R100",
+      "status": "OPEN"
+    },
+    {
+      "name": "Sefako Makgatho Health Sciences University",
+      "abbreviation": "SMU",
+      "website": "https://www.smu.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Sefako_Makgatho_Health_Sciences_University-logo.webp",
+      "location": "Pretoria, Gauteng",
+      "application_opening_date": "1 April",
+      "application_closing_date": "31 July",
+      "application_fee": "R300",
+      "status": "OPEN"
+    },
+    {
+      "name": "Sol Plaatje University",
+      "abbreviation": "SPU",
+      "website": "https://www.spu.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Sol_Plaatje_University-logo.webp",
+      "location": "Kimberley, Northern Cape",
+      "application_opening_date": "June",
+      "application_closing_date": "30 September",
+      "application_fee": "Free",
+      "status": "OPEN"
+    },
+    {
+      "name": "Stellenbosch University",
+      "abbreviation": "SU",
+      "website": "https://www.sun.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Stellenbosch_University-logo.webp",
+      "location": "Stellenbosch, Western Cape",
+      "application_opening_date": "1 April",
+      "application_closing_date": "31 July",
+      "application_fee": "R100",
+      "status": "OPEN"
+    },
+    {
+      "name": "Tshwane University of Technology",
+      "abbreviation": "TUT",
+      "website": "https://www.tut.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Tshwane_University_of_Technology-logo.webp",
+      "location": "Pretoria, Gauteng",
+      "application_opening_date": "1 April",
+      "application_closing_date": "30 September",
+      "application_fee": "R240",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of Cape Town",
+      "abbreviation": "UCT",
+      "website": "https://www.uct.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Cape_Town-logo.webp",
+      "location": "Cape Town, Western Cape",
+      "application_opening_date": "25 April",
+      "application_closing_date": "30 September",
+      "application_fee": "R200",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of Fort Hare",
+      "abbreviation": "UFH",
+      "website": "https://www.ufh.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Fort_Hare-logo.webp",
+      "location": "Alice, Eastern Cape",
+      "application_opening_date": "12 May",
+      "application_closing_date": "30 September",
+      "application_fee": "R120",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of Johannesburg",
+      "abbreviation": "UJ",
+      "website": "https://www.uj.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Johannesburg-logo.webp",
+      "location": "Johannesburg, Gauteng",
+      "application_opening_date": "1 April",
+      "application_closing_date": "30 October",
+      "application_fee": "Free",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of KwaZulu-Natal",
+      "abbreviation": "UKZN",
+      "website": "https://www.ukzn.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_KwaZulu-Natal-logo.webp",
+      "location": "Durban, KwaZulu-Natal",
+      "application_opening_date": "1 March",
+      "application_closing_date": "30 September",
+      "application_fee": "As per CAO",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of Limpopo",
+      "abbreviation": "UL",
+      "website": "https://www.ul.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "location": "Mankweng, Limpopo",
+      "application_opening_date": "1 April",
+      "application_closing_date": "30 September",
+      "application_fee": "R200",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of Mpumalanga",
+      "abbreviation": "UMP",
+      "website": "https://www.ump.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Mpumalanga-logo.webp",
+      "location": "Nelspruit, Mpumalanga",
+      "application_opening_date": "1 June",
+      "application_closing_date": "30 November",
+      "application_fee": "R200",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of Pretoria",
+      "abbreviation": "UP",
+      "website": "https://www.up.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Pretoria-logo.webp",
+      "location": "Pretoria, Gauteng",
+      "application_opening_date": "April",
+      "application_closing_date": "30 June",
+      "application_fee": "R300",
+      "status": "CLOSED"
+    },
+    {
+      "name": "University of South Africa",
+      "abbreviation": "UNISA",
+      "website": "https://www.unisa.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_South_Africa-logo.webp",
+      "location": "Pretoria, Gauteng",
+      "application_opening_date": "3 November",
+      "application_closing_date": "19 December",
+      "application_fee": "R135",
+      "status": "CLOSED"
+    },
+    {
+      "name": "University of the Free State",
+      "abbreviation": "UFS",
+      "website": "https://www.ufs.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_the_Free_State-logo.webp",
+      "location": "Bloemfontein, Free State",
+      "application_opening_date": "1 April",
+      "application_closing_date": "30 September",
+      "application_fee": "Free",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of the Western Cape",
+      "abbreviation": "UWC",
+      "website": "https://www.uwc.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_the_Western_Cape-logo.webp",
+      "location": "Bellville, Western Cape",
+      "application_opening_date": "1 April",
+      "application_closing_date": "30 September",
+      "application_fee": "Free",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of the Witwatersrand",
+      "abbreviation": "WITS",
+      "website": "https://www.wits.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_the_Witwatersrand-logo.webp",
+      "location": "Johannesburg, Gauteng",
+      "application_opening_date": "March",
+      "application_closing_date": "30 September",
+      "application_fee": "R100",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of Venda",
+      "abbreviation": "UNIVEN",
+      "website": "https://www.univen.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Venda-logo.webp",
+      "location": "Thohoyandou, Limpopo",
+      "application_opening_date": "1 April",
+      "application_closing_date": "30 September",
+      "application_fee": "R100",
+      "status": "OPEN"
+    },
+    {
+      "name": "University of Zululand",
+      "abbreviation": "UNIZULU",
+      "website": "https://www.unizulu.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Zululand-logo.webp",
+      "location": "Kwadlangezwa, KwaZulu-Natal",
+      "application_opening_date": "1 March",
+      "application_closing_date": "30 September",
+      "application_fee": "As per CAO",
+      "status": "OPEN"
+    },
+    {
+      "name": "Vaal University of Technology",
+      "abbreviation": "VUT",
+      "website": "https://www.vut.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Vaal_University_of_Technology-logo.webp",
+      "location": "Vanderbijlpark, Gauteng",
+      "application_opening_date": "1 April",
+      "application_closing_date": "30 September",
+      "application_fee": "R100",
+      "status": "OPEN"
+    },
+    {
+      "name": "Walter Sisulu University",
+      "abbreviation": "WSU",
+      "website": "https://www.wsu.ac.za/",
+      "logo": "https://usaf.ac.za/wp-content/uploads/2023/08/Walter_Sisulu_University-logo.webp",
+      "location": "Mthatha, Eastern Cape",
+      "application_opening_date": "1 April",
+      "application_closing_date": "30 September",
+      "application_fee": "Free",
+      "status": "OPEN"
+    }
+  ]
+}
