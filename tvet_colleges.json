@@ -1,0 +1,505 @@
+{
+  "country": "South Africa",
+  "colleges": [
+    {
+      "name": "Buffalo City TVET College",
+      "abbreviation": "BC",
+      "website": "https://www.bccollege.co.za",
+      "logo": "",
+      "location": "Eastern Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Eastcape Midlands TVET College",
+      "abbreviation": "EMC",
+      "website": "https://www.emcol.co.za",
+      "logo": "",
+      "location": "Eastern Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Ikhala TVET College",
+      "abbreviation": "ITC",
+      "website": "https://ikhala.edu.za",
+      "logo": "",
+      "location": "Eastern Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Ingwe TVET College",
+      "abbreviation": "ITC",
+      "website": "https://www.ingwecollege.edu.za",
+      "logo": "",
+      "location": "Eastern Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "King Hintsa TVET College",
+      "abbreviation": "KH",
+      "website": "https://www.kinghintsacollege.edu.za",
+      "logo": "",
+      "location": "Eastern Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "King Sabata Dalindyebo TVET College",
+      "abbreviation": "KSD",
+      "website": "https://www.ksdcollege.edu.za",
+      "logo": "",
+      "location": "Eastern Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Lovedale TVET College",
+      "abbreviation": "LTC",
+      "website": "https://www.lovedalecollege.co.za",
+      "logo": "",
+      "location": "Eastern Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Port Elizabeth TVET College",
+      "abbreviation": "PE",
+      "website": "https://www.pecollege.edu.za",
+      "logo": "",
+      "location": "Eastern Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Flavius Mareka TVET College",
+      "abbreviation": "FM",
+      "website": "https://www.flaviusmareka.net",
+      "logo": "",
+      "location": "Free State",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Goldfields TVET College",
+      "abbreviation": "GTC",
+      "website": "https://www.goldfieldsfet.edu.za",
+      "logo": "",
+      "location": "Free State",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Maluti TVET College",
+      "abbreviation": "MTC",
+      "website": "https://www.malutitvet.co.za",
+      "logo": "",
+      "location": "Free State",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Motheo TVET College",
+      "abbreviation": "MTC",
+      "website": "https://www.motheotvet.co.za",
+      "logo": "",
+      "location": "Free State",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Central Johannesburg TVET College",
+      "abbreviation": "CJC",
+      "website": "https://www.cjc.edu.za",
+      "logo": "",
+      "location": "Gauteng",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Ekurhuleni East TVET College",
+      "abbreviation": "EEC",
+      "website": "https://www.eec.edu.za",
+      "logo": "",
+      "location": "Gauteng",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Ekurhuleni West TVET College",
+      "abbreviation": "EWC",
+      "website": "https://www.ewc.edu.za",
+      "logo": "",
+      "location": "Gauteng",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Sedibeng TVET College",
+      "abbreviation": "STC",
+      "website": "https://www.sedcol.co.za",
+      "logo": "",
+      "location": "Gauteng",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "South West Gauteng TVET College",
+      "abbreviation": "SWGC",
+      "website": "https://www.swgc.co.za",
+      "logo": "https://www.swgc.co.za/wp-content/uploads/2022/08/Screenshot-2022-07-01-at-00.31.53-1024x471.png",
+      "location": "Gauteng",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Tshwane North TVET College",
+      "abbreviation": "TNC",
+      "website": "https://www.tnc.edu.za",
+      "logo": "",
+      "location": "Gauteng",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Tshwane South TVET College",
+      "abbreviation": "TSC",
+      "website": "https://www.tsc.edu.za",
+      "logo": "",
+      "location": "Gauteng",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Western TVET College",
+      "abbreviation": "WTC",
+      "website": "https://www.westcol.co.za",
+      "logo": "https://westcol.co.za/wp-content/uploads/2025/05/westcol-icon-s.png",
+      "location": "Gauteng",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Coastal TVET College",
+      "abbreviation": "CTC",
+      "website": "https://www.coastalkzn.cao.za",
+      "logo": "https://www.coastalkzn.co.za/images/ckzn_logo.png",
+      "location": "KwaZulu-Natal",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Elangeni TVET College",
+      "abbreviation": "ETC",
+      "website": "https://www.efet.co.za",
+      "logo": "https://www.elangeni.edu.za/wp-content/uploads/2024/05/Elangeni-logo-Colour-Vector-2048x1002.png",
+      "location": "KwaZulu-Natal",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Esayidi TVET College",
+      "abbreviation": "ETC",
+      "website": "https://www.esyidifet.co.za",
+      "logo": "",
+      "location": "KwaZulu-Natal",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Majuba TVET College",
+      "abbreviation": "MTC",
+      "website": "https://www.majuba.edu.za",
+      "logo": "",
+      "location": "KwaZulu-Natal",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Mnambithi TVET College",
+      "abbreviation": "MTC",
+      "website": "https://www.mnambithicollege.co.za",
+      "logo": "",
+      "location": "KwaZulu-Natal",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Mthashana TVET College",
+      "abbreviation": "MTC",
+      "website": "https://www.mthashanacollege.co.za",
+      "logo": "",
+      "location": "KwaZulu-Natal",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Thekwini TVET College",
+      "abbreviation": "TTC",
+      "website": "https://www.thekwinicollege.co.za",
+      "logo": "",
+      "location": "KwaZulu-Natal",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Umfolozi TVET College",
+      "abbreviation": "UTC",
+      "website": "https://www.umfolozicollege.co.za",
+      "logo": "",
+      "location": "KwaZulu-Natal",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Umgungundlovu TVET College",
+      "abbreviation": "UTC",
+      "website": "https://www.ufetc.edu.za",
+      "logo": "",
+      "location": "KwaZulu-Natal",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Capricorn TVET College",
+      "abbreviation": "CTC",
+      "website": "https://www.capricorncollege.edu.za",
+      "logo": "https://capricornonline.co.za/wp-content/uploads/2023/09/Capri-online-Logo.png",
+      "location": "Limpopo",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Lephalale TVET College",
+      "abbreviation": "LTC",
+      "website": "https://www.lephalaiefetcollege.co.za",
+      "logo": "",
+      "location": "Limpopo",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Letaba TVET College",
+      "abbreviation": "LTC",
+      "website": "https://www.letabafet.co.za",
+      "logo": "https://www.letcol.co.za/images/newLogo.png",
+      "location": "Limpopo",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Mopani South East TVET College",
+      "abbreviation": "MSETC",
+      "website": "https://www.mopanicollege.edu.za",
+      "logo": "",
+      "location": "Limpopo",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Sekhukhune TVET College",
+      "abbreviation": "STC",
+      "website": "https://www.sekhukhunetvet.edu.za",
+      "logo": "",
+      "location": "Limpopo",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Vhembe TVET College",
+      "abbreviation": "VTC",
+      "website": "https://www.vhembecollege.edu.za",
+      "logo": "",
+      "location": "Limpopo",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Waterberg TVET College",
+      "abbreviation": "WTC",
+      "website": "https://www.waterbergcollege.co.za",
+      "logo": "",
+      "location": "Limpopo",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Ehlanzeni TVET College",
+      "abbreviation": "ETC",
+      "website": "https://www.ehlanzenicollege.co.za",
+      "logo": "https://www.ehlanzenicollege.co.za/wp-content/uploads/2021/01/Ehlanzeni-TVET-College.png",
+      "location": "Mpumalanga",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Gert Sibande TVET College",
+      "abbreviation": "GSC",
+      "website": "https://www.gscollege.co.za",
+      "logo": "https://gscollege.edu.za/wp-content/uploads/2024/11/Logo-right.png",
+      "location": "Mpumalanga",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Nkangala TVET College",
+      "abbreviation": "NTC",
+      "website": "https://www.nkangalafet.edu.za",
+      "logo": "",
+      "location": "Mpumalanga",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Northern Cape Rural TVET College",
+      "abbreviation": "NCR",
+      "website": "https://www.ncrtvet.com",
+      "logo": "",
+      "location": "Northern Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Northern Cape Urban TVET College",
+      "abbreviation": "NCU",
+      "website": "https://www.ncutvet.edu.za",
+      "logo": "",
+      "location": "Northern Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Orbit TVET College",
+      "abbreviation": "OTC",
+      "website": "https://www.orbitcollege.co.za",
+      "logo": "",
+      "location": "North West",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Taletso TVET College",
+      "abbreviation": "TTC",
+      "website": "https://www.taletsofetcollege.co.za",
+      "logo": "",
+      "location": "North West",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Vuselela TVET College",
+      "abbreviation": "VTC",
+      "website": "https://www.vuselelacollege.co.za",
+      "logo": "",
+      "location": "North West",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Boland TVET College",
+      "abbreviation": "BTC",
+      "website": "https://www.bolandcollege.com",
+      "logo": "",
+      "location": "Western Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "College of Cape Town for TVET",
+      "abbreviation": "CCT",
+      "website": "https://www.cct.edu.za",
+      "logo": "",
+      "location": "Western Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "False Bay TVET College",
+      "abbreviation": "FB",
+      "website": "https://www.falsebaycollege.co.za",
+      "logo": "https://falsebaycollege.co.za/wp-content/uploads/2022/01/Group-1647.svg",
+      "location": "Western Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "Northlink TVET College",
+      "abbreviation": "NTC",
+      "website": "https://www.northlink.co.za",
+      "logo": "",
+      "location": "Western Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "South Cape TVET College",
+      "abbreviation": "SC",
+      "website": "https://www.sccollege.co.za",
+      "logo": "https://sccollege.co.za/wp-content/uploads/2022/04/SCC-Vertical-Logo.png",
+      "location": "Western Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    },
+    {
+      "name": "West Coast TVET College",
+      "abbreviation": "WC",
+      "website": "https://www.westcoastcollege.co.za",
+      "logo": "",
+      "location": "Western Cape",
+      "application_opening_date": "",
+      "application_closing_date": "",
+      "status": ""
+    }
+  ]
+}
