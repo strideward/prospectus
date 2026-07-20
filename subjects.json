@@ -115,6 +115,249 @@
       "subjects": [
         { "id": "equine-studies", "name": "Equine Studies" }
       ]
+    },
+{
+  "GETC_ABET": {
+    "description": "General Education and Training Certificate - ABET Level 4 (NQF Level 1) & Traditional School Subjects",
+    "categories": [
+      {
+        "name": "Languages",
+        "subjects": [
+          { "id": "afrikaans", "name": "Afrikaans", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "english", "name": "English", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "isindebele", "name": "isiNdebele", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "isixhosa", "name": "isiXhosa", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "isizulu", "name": "isiZulu", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "sepedi", "name": "Sepedi", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "sesotho", "name": "Sesotho", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "setswana", "name": "Setswana", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "siswati", "name": "Siswati", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "tshivenda", "name": "Tshivenda", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "xitsonga", "name": "Xitsonga", "levels": ["Home Language", "First Additional Language", "Second Additional Language"] },
+          { "id": "south-african-sign-language", "name": "South African Sign Language", "levels": ["Home Language"] }
+        ]
+      },
+      {
+        "name": "Mathematics",
+        "subjects": [
+          { "id": "mathematics", "name": "Mathematics" },
+          { "id": "mathematical-literacy", "name": "Mathematical Literacy" },
+          { "id": "technical-mathematics", "name": "Technical Mathematics" }
+        ]
+      },
+      {
+        "name": "Science",
+        "subjects": [
+          { "id": "natural-sciences", "name": "Natural Sciences" },
+          { "id": "life-sciences", "name": "Life Sciences" },
+          { "id": "physical-sciences", "name": "Physical Sciences" },
+          { "id": "technical-sciences", "name": "Technical Sciences" },
+          { "id": "marine-sciences", "name": "Marine Sciences" }
+        ]
+      },
+      {
+        "name": "Commerce",
+        "subjects": [
+          { "id": "accounting", "name": "Accounting" },
+          { "id": "business-studies", "name": "Business Studies" },
+          { "id": "economics", "name": "Economics" },
+          { "id": "economic-and-management-sciences", "name": "Economic and Management Sciences (EMS)" },
+          { "id": "maritime-economics", "name": "Maritime Economics" }
+        ]
+      },
+      {
+        "name": "Agriculture",
+        "subjects": [
+          { "id": "agricultural-sciences", "name": "Agricultural Sciences" },
+          { "id": "agricultural-technology", "name": "Agricultural Technology" },
+          { "id": "agricultural-management-practices", "name": "Agricultural Management Practices" }
+        ]
+      },
+      {
+        "name": "Technology",
+        "subjects": [
+          { "id": "technology", "name": "Technology" },
+          { "id": "civil-technology", "name": "Civil Technology" },
+          { "id": "electrical-technology", "name": "Electrical Technology" },
+          { "id": "mechanical-technology", "name": "Mechanical Technology" },
+          { "id": "engineering-graphics-and-design", "name": "Engineering Graphics and Design (EGD)" },
+          { "id": "computer-applications-technology", "name": "Computer Applications Technology (CAT)" },
+          { "id": "information-technology", "name": "Information Technology (IT)" },
+          { "id": "technical-civil-technology", "name": "Technical Civil Technology" },
+          { "id": "technical-electrical-technology", "name": "Technical Electrical Technology" },
+          { "id": "technical-mechanical-technology", "name": "Technical Mechanical Technology" },
+          { "id": "coding-and-robotics", "name": "Coding and Robotics" }
+        ]
+      },
+      {
+        "name": "Humanities",
+        "subjects": [
+          { "id": "history", "name": "History" },
+          { "id": "geography", "name": "Geography" },
+          { "id": "social-sciences", "name": "Social Sciences" },
+          { "id": "religion-studies", "name": "Religion Studies" }
+        ]
+      },
+      {
+        "name": "Arts",
+        "subjects": [
+          { "id": "creative-arts", "name": "Creative Arts" },
+          { "id": "visual-arts", "name": "Visual Arts" },
+          { "id": "design", "name": "Design" },
+          { "id": "dance-studies", "name": "Dance Studies" },
+          { "id": "dramatic-arts", "name": "Dramatic Arts" },
+          { "id": "music", "name": "Music" }
+        ]
+      },
+      {
+        "name": "Consumer & Services",
+        "subjects": [
+          { "id": "consumer-studies", "name": "Consumer Studies" },
+          { "id": "hospitality-studies", "name": "Hospitality Studies" },
+          { "id": "tourism", "name": "Tourism" }
+        ]
+      },
+      {
+        "name": "Health & Physical Education",
+        "subjects": [
+          { "id": "life-orientation", "name": "Life Orientation" },
+          { "id": "sport-and-exercise-science", "name": "Sport and Exercise Science" }
+        ]
+      },
+      {
+        "name": "Maritime",
+        "subjects": [
+          { "id": "nautical-science", "name": "Nautical Science" }
+        ]
+      },
+      {
+        "name": "Animal Studies",
+        "subjects": [
+          { "id": "equine-studies", "name": "Equine Studies" }
+        ]
+      }
+    ]
+  },
+
+  "NCV_FET": {
+    "description": "National Certificate Vocational - Levels 2 to 4 (NQF Levels 2-4) - Complete List of All 79 Subjects",
+    "total_unique_subjects": 79,
+    "fundamental_subjects": {
+      "description": "Compulsory for EVERY NC(V) student (3 subjects)",
+      "total": 3,
+      "subjects": [
+        "Language / Communication (e.g., English First Additional Language)",
+        "Life Orientation (includes Life Skills and Basic Computer Literacy)",
+        "Mathematics OR Mathematical Literacy"
+      ]
+    },
+    "core_subjects_by_field": {
+      "Business_Commerce_Management": {
+        "description": "Business, Commerce & Management Core Subjects",
+        "total": 16,
+        "subjects": [
+          "Business Practice",
+          "Office Practice",
+          "Office Data Processing",
+          "Applied Accounting",
+          "Economic Environment",
+          "New Venture Creation",
+          "Financial Management",
+          "Management Practice",
+          "Operations Management",
+          "Entrepreneurship",
+          "Advertising and Promotions",
+          "Marketing",
+          "Marketing Communication",
+          "Consumer Behavior",
+          "Freight Logistics",
+          "Transport Economics"
+        ]
+      },
+      "Engineering_Manufacturing_Drafting": {
+        "description": "Engineering, Manufacturing & Drafting Core Subjects",
+        "total": 24,
+        "subjects": [
+          "Construction Materials",
+          "Building and Structural Construction",
+          "Civil and Structural Drafting",
+          "Carpentry and Roof Work",
+          "Masonry",
+          "Plumbing",
+          "Electrical Principles and Practice",
+          "Workshop Practice",
+          "Electronic Control",
+          "Digital Electronics",
+          "Electrical Systems and Construction",
+          "Engineering Processes",
+          "Professional Engineering Practice",
+          "Applied Engineering Technology",
+          "Fitting and Turning",
+          "Automotive Repair and Maintenance",
+          "Welding",
+          "Introduction to Mechatronics",
+          "Mechatronic Systems",
+          "Computer Integrated Manufacturing",
+          "Stored Programme Systems",
+          "Architectural Graphics and Technology",
+          "Mechanical Draughting and Technology",
+          "Drawing Office Procedures"
+        ]
+      },
+      "Technology_Science_ProcessControl": {
+        "description": "Technology, Science & Process Control Core Subjects",
+        "total": 12,
+        "subjects": [
+          "Introduction to Information Systems",
+          "Electronics and Digital Concepts",
+          "Introduction to Systems Development",
+          "Contact Centre Operations",
+          "Process Chemistry",
+          "Process Materials",
+          "Process Technology",
+          "Pulp and Paper Making Technology",
+          "Chemical Technology",
+          "Process Control",
+          "Instrumentation and Control",
+          "Systems and Control"
+        ]
+      },
+      "Hospitality_Tourism_Services": {
+        "description": "Hospitality, Tourism & Services Core Subjects",
+        "total": 13,
+        "subjects": [
+          "Science of Tourism",
+          "Sustainable Tourism",
+          "Tourism Operations",
+          "Client Services and Human Relations",
+          "Hospitality Generics",
+          "Food Preparation",
+          "Hospitality Services",
+          "Transport Operations",
+          "Project Management",
+          "Soil Science",
+          "Plant Production",
+          "Animal Production",
+          "Agribusiness"
+        ]
+      },
+      "Safety_Health_SocialDevelopment": {
+        "description": "Safety, Health & Social Development Core Subjects",
+        "total": 11,
+        "subjects": [
+          "Art and Science of Teaching",
+          "Human and Social Development",
+          "Learning Psychology",
+          "Early Childhood Development",
+          "Introduction to Governance and Law",
+          "Principles of Criminal Justice",
+          "Introduction to Policing",
+          "Law of Procedures and Evidence",
+          "Human Body and Health",
+          "Primary Health Care",
+          "Community Health Work"
+        ]
+      }
     }
-  ]
+  }
 }
