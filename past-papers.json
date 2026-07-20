@@ -1,0 +1,315 @@
+{
+  "country": "South Africa",
+  "past_papers": [
+    {
+      "name": "DBE NSC Past Examination Papers",
+      "category": "Matric (NSC)",
+      "provider": "Department of Basic Education",
+      "website": "https://www.education.gov.za/Curriculum/NationalSeniorCertificate(NSC)Examinations.aspx",
+      "pdf_links": [],
+      "description": "Official National Senior Certificate (Matric) past exam papers from 2008 to 2025. Includes November, May/June, and February/March supplementary papers across all subjects.",
+      "access": "Free, no login required",
+      "logo": ""
+    },
+    {
+      "name": "IEB NSC Past Papers",
+      "category": "Matric (IEB)",
+      "provider": "Independent Examinations Board (IEB)",
+      "website": "https://www.ieb.co.za/assessment/high-schools/national-senior-certificate/nsc-past-papers",
+      "pdf_links": [],
+      "description": "IEB NSC examination papers and marking guidelines for the previous 5 years. Papers from earlier years can be ordered via email.",
+      "access": "Free for recent 5 years; older papers available on request",
+      "logo": ""
+    },
+    {
+      "name": "Studyclix South Africa",
+      "category": "Matric (NSC)",
+      "provider": "Studyclix",
+      "website": "https://www.studyclix.co.za",
+      "pdf_links": [],
+      "description": "Platform that takes past NSC exam papers across eight school subjects and breaks them down into topics and sub-topics with detailed teacher-created mark schemes, videos, and notes. Endorsed by the Department of Basic Education.",
+      "access": "Free (with Primedia Cares partnership)",
+      "logo": ""
+    },
+    {
+      "name": "SA Papers",
+      "category": "Matric (NSC & IEB)",
+      "provider": "SA Papers",
+      "website": "https://www.sapapers.co.za",
+      "pdf_links": [],
+      "description": "Collects free past exam papers for all Grades across Umalusi, IEB, and SACIA exam bodies. Available in multiple languages including Afrikaans, English, isiZulu, Sesotho, and isiXhosa.",
+      "access": "Free",
+      "logo": ""
+    },
+    {
+      "name": "Teach Me 2 Matric Past Papers",
+      "category": "Matric (NSC)",
+      "provider": "Teach Me 2",
+      "website": "https://www.teachme2.co.za",
+      "pdf_links": [],
+      "description": "Compiled Matric NSC past papers from 2019 to 2024 in zip files or PDFs. All papers come from the Department of Basic Education.",
+      "access": "Free",
+      "logo": ""
+    },
+    {
+      "name": "WCED Past Exam Papers",
+      "category": "Matric (NSC)",
+      "provider": "Western Cape Education Department",
+      "website": "https://wcedeportal.co.za",
+      "pdf_links": [],
+      "description": "NSC past exam papers available through the WCED ePortal, including May/June and November sessions across all subjects.",
+      "access": "Free",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 Mathematics",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-mathematics",
+      "pdf_links": [],
+      "description": "Grade 12 Mathematics past exam papers and memos from Testpapers. Covers Paper 1 (Algebra) and Paper 2 (Geometry) content.[reference:7]",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 Mathematical Literacy",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-mathematical-literacy",
+      "pdf_links": [],
+      "description": "Grade 12 Mathematical Literacy past exam papers and memos from Testpapers.[reference:8]",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 Physical Sciences",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-physical-sciences",
+      "pdf_links": [],
+      "description": "Grade 12 Physical Sciences past exam papers and memos from Testpapers.",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 Life Sciences",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-life-sciences",
+      "pdf_links": [],
+      "description": "Grade 12 Life Sciences past exam papers and memos from Testpapers.",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 Accounting",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-accounting",
+      "pdf_links": [],
+      "description": "Grade 12 Accounting past exam papers and memos from Testpapers.",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 Business Studies",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-business-studies",
+      "pdf_links": [],
+      "description": "Grade 12 Business Studies past exam papers and memos from Testpapers.",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 Economics",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-economics",
+      "pdf_links": [],
+      "description": "Grade 12 Economics past exam papers and memos from Testpapers.",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 Geography",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-geography",
+      "pdf_links": [],
+      "description": "Grade 12 Geography past exam papers and memos from Testpapers. Available in English and Afrikaans.[reference:9]",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 History",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-history",
+      "pdf_links": [],
+      "description": "Grade 12 History past exam papers and memos from Testpapers.",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 English HL & FAL",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-english-hl",
+      "pdf_links": [],
+      "description": "Grade 12 English Home Language (HL) and First Additional Language (FAL) past exam papers and memos from Testpapers.",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 Afrikaans HT & EAT",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-afrikaans-ht",
+      "pdf_links": [],
+      "description": "Grade 12 Afrikaans Huistaal (HT) and Eerste Addisionele Taal (EAT) past exam papers and memos from Testpapers.[reference:10]",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "Testpapers - Grade 12 Technical Subjects",
+      "category": "Matric (NSC)",
+      "provider": "Testpapers",
+      "website": "https://www.testpapers.co.za/gr-12-technical-subjects",
+      "pdf_links": [],
+      "description": "Grade 12 Technical Subjects (Mechanical, Electrical, Civil Technology) past exam papers and memos from Testpapers.[reference:11]",
+      "access": "Free (some resources may require purchase)",
+      "logo": ""
+    },
+    {
+      "name": "NWU Exam Papers",
+      "category": "University",
+      "provider": "North-West University",
+      "website": "https://libguides.nwu.ac.za/az/nwu-exam-papers",
+      "pdf_links": [],
+      "description": "Database of NWU exam papers from 2003 to present. Papers are organised by period: 2003-2008, 2009-2014, 2015-2020, and 2021 onward. No memorandums or multiple-choice questions included.",
+      "access": "Free (no login required for most)",
+      "logo": ""
+    },
+    {
+      "name": "UJ Past Exam Papers",
+      "category": "University",
+      "provider": "University of Johannesburg",
+      "website": "https://uj.ac.za.libguides.com/exampapers/welcome",
+      "pdf_links": [],
+      "description": "Past examination papers for Science modules at the University of Johannesburg. Available only to signed-in users.",
+      "access": "Restricted (UJ login required)",
+      "logo": ""
+    },
+    {
+      "name": "UFH Past Exam Papers",
+      "category": "University",
+      "provider": "University of Fort Hare",
+      "website": "https://libdspace.ufh.ac.za",
+      "pdf_links": [],
+      "description": "Past examination papers from the Department of Mathematics at the University of Fort Hare, including topics in linear algebra, numerical methods, and mathematical modeling.",
+      "access": "Free",
+      "logo": ""
+    },
+    {
+      "name": "SPU Past Exam Papers",
+      "category": "University",
+      "provider": "Sol Plaatje University",
+      "website": "https://openhub.spu.ac.za",
+      "pdf_links": [],
+      "description": "Past examination papers at Sol Plaatje University to support student learning, revision, and exam preparation.",
+      "access": "Free",
+      "logo": ""
+    },
+    {
+      "name": "CUT Past Exam Papers",
+      "category": "University",
+      "provider": "Central University of Technology",
+      "website": "https://www.cut.ac.za/library",
+      "pdf_links": [],
+      "description": "Past exam papers available through the CUT Library website. Search by subject or module using course codes or keywords.",
+      "access": "Free",
+      "logo": ""
+    },
+    {
+      "name": "UL Past Exam Papers",
+      "category": "University",
+      "provider": "University of Limpopo",
+      "website": "https://ul-za.libguides.com/exampapers",
+      "pdf_links": [],
+      "description": "Past examination papers available through the University of Limpopo Library. Access via the Library menu under 'Prev. Question papers' or 'Exam Papers'.",
+      "access": "Free",
+      "logo": ""
+    },
+    {
+      "name": "UWC Past Exam Papers",
+      "category": "University",
+      "provider": "University of the Western Cape",
+      "website": "https://libguides.uwc.ac.za",
+      "pdf_links": [],
+      "description": "Past exam papers available through iKamva course modules. Papers from before 2022 are accessible via the library guide.",
+      "access": "Restricted (UWC login required for recent papers)",
+      "logo": ""
+    },
+    {
+      "name": "UNISA Past Exam Papers",
+      "category": "University",
+      "provider": "University of South Africa",
+      "website": "https://osprey.unisa.ac.za",
+      "pdf_links": [],
+      "description": "Past exam questions and discussions from UNISA students. Community-driven resource with exam question comparisons from 2004 onwards.",
+      "access": "Free (community forum)",
+      "logo": ""
+    },
+    {
+      "name": "TVET Papers (tvetpapers.co.za)",
+      "category": "TVET College",
+      "provider": "TVET Papers",
+      "website": "https://tvetpapers.co.za",
+      "pdf_links": [],
+      "description": "Comprehensive collection of TVET NATED exam papers from 2005 to present. Over 11,700+ NATED and 500 Installation Rules Papers available.",
+      "access": "Free",
+      "logo": ""
+    },
+    {
+      "name": "MyNATED - TVET Exam Papers",
+      "category": "TVET College",
+      "provider": "MyNATED",
+      "website": "https://tvetpapers.co.za",
+      "pdf_links": [],
+      "description": "Mobile app serving TVET NATED exam papers from 2005 till now. Save papers offline for convenient study.",
+      "access": "Free (mobile app)",
+      "logo": ""
+    },
+    {
+      "name": "TVET College Study Guides",
+      "category": "TVET College",
+      "provider": "TVET College Study Guides",
+      "website": "https://play.google.com",
+      "pdf_links": [],
+      "description": "Study guides and past exam papers for NATED and NCV qualifications. Over 13,000+ NATED and 6,300+ NCV study materials available.",
+      "access": "Free (mobile app)",
+      "logo": ""
+    },
+    {
+      "name": "TVET NCV Past Question Papers",
+      "category": "TVET College",
+      "provider": "TVET NCV",
+      "website": "https://play.google.com",
+      "pdf_links": [],
+      "description": "Mobile app with over 8,800+ NCV papers. Specifically designed for TVET students studying NCV qualifications from Level 2 to 4.",
+      "access": "Free (mobile app)",
+      "logo": ""
+    },
+    {
+      "name": "TVET Exam Papers NATED and NCV",
+      "category": "TVET College",
+      "provider": "TVET Exam Papers",
+      "website": "https://play.google.com",
+      "pdf_links": [],
+      "description": "Comprehensive collection of NATED and NCV exam papers from 2005 to 2026. Over 14,650+ NATED papers available.",
+      "access": "Free (mobile app)",
+      "logo": ""
+    }
+  ]
+}
